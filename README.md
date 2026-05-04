@@ -1,13 +1,11 @@
 ### hacking con Chatbot de IA o IA Conversacional:  
 
-https://www.larazon.es/tecnologia-consumo/google-ia-hackers-ciberseguridad-informe-gtic_20260212698ca7f29243cc133c42345d.html
 
-https://cybersecuritynews.com/guardian-ai-penetration-testing-tool/
 
 <img style="float:left" alt="hacking con IA" src="https://github.com/hackingyseguridad/ia/blob/main/hackingia.png">
 
 
-**0.- Usando LLM IA gratis**;  El objetivo es demostrar cómo utilizar modelos de lenguaje (LLMs) de IA disponibles públicamente para ayudar en procesos de evaluación de seguridad, desde el descubrimiento de servicios hasta la generación de informes.
+**0.- Usando chatbot de IA o IA conversacional LLM IA gratis**;  El objetivo es demostrar cómo utilizar modelos de lenguaje (LLMs) de IA disponibles públicamente para ayudar en procesos de evaluación de seguridad, desde el descubrimiento de servicios hasta la generación de informes.
 
 https://chat.deepseek.com/  IA de origen chino enfocada en la eficiencia técnica, matemáticas y programación.
 
