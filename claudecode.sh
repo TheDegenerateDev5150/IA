@@ -1,15 +1,16 @@
 #!/bin/sh
 
-# Script Bash Shell 1.0.x para ejecutar en local Claude Code (Anthropic CLI)
-# Requiere API key configurada en variable de entorno ANTHROPIC_API_KEY
-# 2026 http://www.hackingyseguridad.com/ 
+# https://github.com/hackingyseguridad/IA/ 
+# Script Bash Shell 1.0.x para ejecutar en un directorio de Linux en local Claude Code (Anthropic CLI)
+# Requiere API key configurada en variable de entorno ANTHROPIC_API_KEY 
+$ANTHROPIC_API_KEY = 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
 # Ejecuta Claude 3 Haiku o Sonnet (sin necesidad de GPU NVIDIA)
-# modelos disponibles sin GPU NVIDIA
+# modelos disponibles sin GPU NVIDIA:
 #
 # claude-3-haiku-20240307                (rápido y económico)
 # claude-3-sonnet-20240229               (balance calidad/velocidad)
 # claude-3-opus-20240229                 (potente pero más lento)
-
+#
 MODEL="claude-3-haiku-20240307"  # Opciones: haiku, sonnet, opus
 
 # Verificar API key
