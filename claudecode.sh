@@ -20,18 +20,21 @@ if [ -z "$ANTHROPIC_API_KEY" ]; then
     exit 1
 fi
 
-# Configurar límite de tokens (safe para Claude)
+# límite de tokens 
 if [ -z "$CLAUDE_MAX_TOKENS" ]; then
     CLAUDE_MAX_TOKENS=4096
     export CLAUDE_MAX_TOKENS
 fi
 
-# Configurar timeout (en milisegundos)
+# timeout en milisegundos
 if [ -z "$CLAUDE_TIMEOUT_MS" ]; then
     CLAUDE_TIMEOUT_MS=60000
     export CLAUDE_TIMEOUT_MS
 fi
 
+# Claude Code es de pago, hay que iniciar sesion y pagar ToKens
+# obtener API Key en https://platform.claude.com/dashboard
+# obtener API Key en https://platform.claude.com/settings/keys
 echo "... conexión a Anthropic API..."
 if ! curl -s -o /dev/null -w "%{http_code}" https://api.anthropic.com/v1/messages \
     -H "x-api-key: $ANTHROPIC_API_KEY" \
