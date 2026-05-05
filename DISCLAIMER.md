@@ -53,3 +53,7 @@ Divulgación responsable
 Los usuarios deben seguir prácticas de divulgación responsable para cualquier vulnerabilidad descubierta durante las pruebas autorizadas. Esto incluye:
 
 Al utilizar este conjunto de herramientas, usted reconoce haber leído, comprendido y aceptado los términos descritos en este aviso legal. Si no está de acuerdo con estos términos, no utilice este conjunto de herramientas.
+
+#
+http://www.hackingyseguridad.com/
+#
