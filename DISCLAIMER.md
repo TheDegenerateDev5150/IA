@@ -9,7 +9,7 @@ Operaciones de seguridad defensiva que incluyen ingeniería de detección, model
 Requisitos de autorización
 Los usuarios DEBEN contar con la autorización escrita correspondiente antes de utilizar estos agentes en cualquier capacidad. Las formas de autorización aceptables incluyen:
 
-Un documento de reglas de participación (ROE) firmado.
+Un documento de reglas de participación firmado.
 Un alcance de trabajo formal o declaración de trabajo.
 Autorización por escrito del propietario del sistema.
 Un acuerdo firmado de pruebas de penetración.
@@ -29,7 +29,7 @@ Los autores y colaboradores de este conjunto de herramientas no aceptan ninguna 
 
 Uso indebido de cualquier tipo, incluyendo, entre otros, el acceso no autorizado a sistemas o datos.
 Cualquier daño, directo o indirecto, que resulte del uso de este conjunto de herramientas.
-Consecuencias legales derivadas del uso no autorizado o indebido
+Consecuencias legales derivadas del uso no autorizado o indebido.
 Pérdida de datos, daños al sistema o interrupción del servicio causados ​​por actividades realizadas siguiendo las directrices de estos agentes.
 
 Qué hacen y qué no hacen estos agentes
