@@ -6,11 +6,14 @@ El proceso se integra en las fases estándar de un pentest:
 
 PROCESO: 
 
-1º.- Planificación y Reconocimiento (Recon) reclutar las IP, fqdn, rangos, url, uri, etc. que queremos explotar:
+1º.- Planificación y Reconocimiento (Recon) 
+
+reclutar las IP, fqdn, rangos, url, uri, etc. que queremos explotar:
 Reconocimiento (Recon): La IA no escanea ni hace pruebas de forma directa; 
 A la IA tedremos que darle datos para que analice, procese e identifique vulnerabilidades, clasifique y resuma;
 
 2º.- Escaneo y Análisis (Scanning)
+
 ejecutar Script ,obtener la inforamción del activo y guardar en un reporte resultado.xml 
 
 - redautit.sh para escaneos de puertos/servicios en activos o rangos de red
@@ -25,17 +28,17 @@ ejecutar Script ,obtener la inforamción del activo y guardar en un reporte resu
 
 ordena en una tabla resumen ejecutivo, los puertos/servicios con las vulnerabilidades CVE criticas y que hay exploit, son explotables
 
-4º.- POC, Scripts con prueba de concepto, 
+4º.- Obtener scripts para pruebas de concepto (POC), 
 
 ordenados de mas facil a menos, codigo simple Script, en Bash Shell o Python3
 
-5º.- Explotar las vulnerabilidades 
+5º.- Obtener scripts para explotar las vulnerabilidades (Exploit)
 
 codigo de los Exploit disponibles, ordenados de mas facil explotación a menos
 
-Post-Explotación y Reporte:
+6º.- Post-Explotación y Reporte:
 
-6º,. Redactar informes técnicos claros y sugerir medidas de remediación.
+Redactar informes técnicos claros y sugerir medidas de remediación.
 
 Pasar las notas de los hallazgo a la IA para que genere un resumen ejecutivo y recomendaciones técnicas de parcheo.
 
