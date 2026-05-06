@@ -14,10 +14,10 @@ if [ -z "$1" ]; then
         echo
         echo "Esaneo de puertos/servicios y vulnerabilidades conocidas."
         echo "Requiere nmap"
-        echo "Uso.: sh scan.sh <ip/fqdn/rango>"
+        echo "Uso.: sh redaudit.sh <ip/fqdn/rango>"
         echo
         exit 0
 fi
 echo
 echo
-nmap -Pn $1 $2 $3 $4 $5 -sVC -O --script=default,banner,vuln,vulners --script-args mincvss=7 -p- --open
+nmap -Pn $1 $2 $3 $4 $5 -sVC -O --script=default,banner,vuln,vulners --script-args mincvss=7 -p- --open -oX resultado.xml
