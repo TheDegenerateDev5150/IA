@@ -5,7 +5,8 @@
 
 <img style="float:left" alt="hacking con IA Claude Code" src="https://github.com/hackingyseguridad/ia/blob/main/claudecode.png">
 
-[DeepSeek Coder]( )
+[DeepSeek Coder](https://github.com/hackingyseguridad/IA/blob/main/deepseek2.sh)
+
 
 Referencias:
 
