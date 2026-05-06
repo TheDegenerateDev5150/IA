@@ -24,21 +24,21 @@ ejecutar Script ,obtener la inforamción del activo y guardar en un reporte resu
 
 3º.-IA analiza la inforamción; 
 
-.-anexar resultado.xml para que procese por la IA, con el prompt:
+anexar resultado.xml para que procese por la IA, con el prompt:
 
-ordena en una tabla resumen ejecutivo, los puertos/servicios con las vulnerabilidades CVE criticas y que hay exploit, son explotables
+PROMPT IA: ordena en una tabla resumen ejecutivo, los puertos/servicios con las vulnerabilidades CVE criticas y que hay exploit, son explotables
 
 4º.- Obtener de la IA scripts para pruebas de concepto (POC), 
 
-ordenados de mas facil a menos, codigo simple Script, en Bash Shell o Python3
+PROMPT IA: ordenados de mas facil a menos, codigo simple Script, en Bash Shell o Python3
 
 5º.- Obtener de la IA scripts para explotar las vulnerabilidades (Exploit)
 
-codigo de los Exploit disponibles, ordenados de mas facil explotación a menos
+PROMPT IA: codigo de los Exploit disponibles, ordenados de mas facil explotación a menos
 
 6º.- Post-Explotación y Reporte:
 
-Redactar informes técnicos claros y sugerir medidas de remediación.
+PROMPT IA :Redactar informes técnicos claros y sugerir medidas de remediación.
 
 Pasar las notas de los hallazgo a la IA para que genere un resumen ejecutivo y recomendaciones técnicas de parcheo.
 
