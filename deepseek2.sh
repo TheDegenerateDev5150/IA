@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# hackingyseguridad.com 2026 
 # Script Bash Shell 1.0.x para ejecutar  en local DeepSeek Coder, con ollana
 # ejecuta DeepSeek Coder en CPU (sin GPU NVIDIA)
 
