@@ -10,3 +10,11 @@ PROCESO:
 3º.-subir/anexar resultado.xml para que procese por la IA, con el prompt:
 
 ordena en una tabla resumen ejecutivo, los puertos/servicios con las vulnerabilidades CVE criticas y que hay exploit, son explotables
+
+4º.- POC, Scripts con prueba de concepto, 
+
+ordenados de mas facil a menos, codigo simple Script, en Bash Shell o Python3
+
+5º.- Explotar las vulnerabilidades 
+
+codigo de los Exploit disponibles, ordenados de mas facil explotación a menos
