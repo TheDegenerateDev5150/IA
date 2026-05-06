@@ -1,9 +1,8 @@
 
-
 La IA funciona como un asistente experto: especializado con alto conocimiento en programación y ciberseguridad; Conoce vulnerabilidades, sugiere vectores de ataque basados en CVEs y analiza código para encontrar fallos de lógica que herramientas tradicionales ignoran. Evalua y describre las vulnerabilides (CVE), genera scripts en distintos leguajes, para: pruebas de conceto (POC), para explotar las vulnerabilidades ( Exploits. 
 Actualmente la IA no sustituye el juicio humano en una auditoría; Acelera la ejecución de las pruebas (haciéndolas más eficientes), pero el auditor sigue siendo quien rige y  el responsable de validar los hallazgos y acciones.
 
-
+El proceso se integra en las fases estándar de un pentest:
 
 PROCESO: 
 
