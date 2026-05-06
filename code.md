@@ -1,4 +1,4 @@
-### Hacking ofensivo con code IA en local:
+### Hacking ofensivo con code IA en local: modelos especializados en programación y ciberseguridad
 
   
 [Claude Code ](https://github.com/hackingyseguridad/IA/blob/main/claudecode.sh) ; la IA de Anthropic desde la terminal (CLI)  
