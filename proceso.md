@@ -13,6 +13,12 @@ A la IA tedremos que darle datos para que analice, procese e identifique vulnera
 2. Escaneo y Análisis (Scanning)
 ejecutar Script ,obtener la inforamción del activo y guardar en un reporte resultado.xml 
 
+- redautit.sh para escaneos de puertos/servicios en activos o rangos de red
+
+- webaudit.sh  para  web/api
+
+- fqdnaudit.sh para extraer inforamción a partir de un fqdn 
+
 3º.-IA analiza la inforamción; 
 
 .-anexar resultado.xml para que procese por la IA, con el prompt:
