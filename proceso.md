@@ -1,4 +1,4 @@
-# IA como asistente experto en pentesting y ciberseguridad
+### IA como asistente experto en pentesting y ciberseguridad
 
 ### Introducción
 
@@ -11,7 +11,7 @@ Actualmente la IA no sustituye el juicio humano en una auditoría; Acelera la ej
 
 ---
 
-## Proceso pentesting integrado: Kali Linux + IA
+### Proceso pentesting integrado: Kali Linux + IA
 
 Flujo de trabajo dividido en las 6 fases, integrando el uso de scripts de auditoría y prompts específicos para la IA.
 
@@ -27,48 +27,6 @@ Flujo de trabajo dividido en las 6 fases, integrando el uso de scripts de audito
 ---
 
 #
-
-El proceso se integra en las fases estándar de un pentest:
-
-PROCESO: 
-
-1º.- Planificación y Reconocimiento (Recon) 
-
-reclutar las IP, fqdn, rangos, url, uri, etc. que queremos explotar:
-Reconocimiento (Recon): La IA no escanea ni hace pruebas de forma directa; 
-A la IA tedremos que darle datos para que analice, procese e identifique vulnerabilidades, clasifique y resuma;
-
-2º.- Escaneo y Análisis (Scanning)
-
-ejecutar Script ,obtener la inforamción del activo y guardar en un reporte resultado.xml 
-
-- redautit.sh para escaneos de puertos/servicios en activos o rangos de red
-
-- webaudit.sh  para  web/api
-
-- fqdnaudit.sh para extraer inforamción a partir de un fqdn 
-
-3º.-Analisis de los datos mediante IA: 
-
-anexar resultado.xml para que procese la IA, con la instruccion (prompt):
-
-PROMPT IA: ordena en una tabla resumen ejecutivo, los puertos/servicios con las vulnerabilidades CVE criticas y que hay exploit, son explotables
-
-4º.- Obtener de la IA scripts para pruebas de concepto (POC), 
-
-PROMPT IA: ordenados de mas facil a menos, codigo simple Script, en Bash Shell o Python3
-
-5º.- Obtener de la IA scripts para explotar las vulnerabilidades (Exploit)
-
-PROMPT IA: codigo de los Exploit disponibles, ordenados de mas facil explotación a menos
-
-6º.- Post-Explotación y Reporte:
-
-PROMPT IA :Redactar informes técnicos claros y sugerir medidas de remediación.
-
-Pasar las notas de los hallazgo a la IA para que genere un resumen ejecutivo y recomendaciones técnicas de parcheo.
-
-
 
 
 
