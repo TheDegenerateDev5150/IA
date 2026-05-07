@@ -10,7 +10,7 @@ para ayudar a identificar vulnerabilidades conocidas CVE, como para hacking ofen
 suele ser menos restrictivo en su versión base (ejecutado en la terminal (CLI) localmente) o para detección de bugs críticos
 
 
-[Qween3.6](https://github.com/hackingyseguridad/IA/blob/main/qwen.sh) ; 
+[Qween3.6](https://github.com/hackingyseguridad/IA/blob/main/qwen.sh) ; Qwen3.6 la IA de Alibaba, requiere 23GB de epacio en disco duro
 
 
 #
