@@ -25,6 +25,8 @@ nmap -sV IP/rango -oN resultado.txt   # guardamos el resultado del escaneo en el
 
 podemos subir el fichero de resultado.txt para que lo procese la IA, o podemos limpiar y filtrar la informacion previamente datos que no nos interesa enviar, previo a pegar y procesar con IA
 
+<img style="float:left" alt="hacking con IA" src="https://github.com/hackingyseguridad/ia/blob/main/deepseek.png">
+
 **3.- PREGUNTA:**  que reparos o configuraciones habria que hacer para hacer seguro este activo IP/fqdn ?
 
 **4.- PREGUNTA:** genera con todo: una tabla resumen, con de las vulnerabilidades 3 columnas ordenando de mas critica a menor gravedad y resumen con las potenciales vulnerabilidades y los posibles reparos / configuraciones un informe, paper en formato PDF. + resumen ejecutivo.
