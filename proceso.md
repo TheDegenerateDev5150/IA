@@ -49,9 +49,9 @@ ejecutar Script ,obtener la inforamción del activo y guardar en un reporte resu
 
 - fqdnaudit.sh para extraer inforamción a partir de un fqdn 
 
-3º.-IA analiza la inforamción; 
+3º.-Analisis de los datos mediante IA: 
 
-anexar resultado.xml para que procese por la IA, con el prompt:
+anexar resultado.xml para que procese la IA, con la instruccion (prompt):
 
 PROMPT IA: ordena en una tabla resumen ejecutivo, los puertos/servicios con las vulnerabilidades CVE criticas y que hay exploit, son explotables
 
