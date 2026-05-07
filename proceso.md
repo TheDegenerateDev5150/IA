@@ -1,15 +1,16 @@
-# IA como Asistente Experto en Pentesting y Ciberseguridad
+# IA como asistente experto en pentesting y ciberseguridad
 
-## Introducción
-La Inteligencia Artificial ha evolucionado para actuar como un **asistente especializado de alto nivel** en los campos de la programación y la ciberseguridad. Su capacidad para procesar grandes volúmenes de datos permite identificar vulnerabilidades críticas, sugerir vectores de ataque basados en registros **CVE (Common Vulnerabilities and Exposures)** y analizar código fuente en busca de fallos de lógica que las herramientas de escaneo tradicionales suelen ignorar.
+### Introducción
 
-Es fundamental entender que, en el estado actual de la tecnología, **la IA no sustituye el juicio humano**. Su función principal es la **aceleración y optimización** de las pruebas (eficiencia operativa), delegando en el auditor la responsabilidad de regir el proceso, validar los hallazgos y ejecutar las acciones finales.
+La Inteligencia Artificial ha evolucionado para actuar como un **asistente especializado de alto nivel** en los campos de la programación y la ciberseguridad. Su capacidad para procesar grandes volúmenes de datos permite identificar vulnerabilidades críticas, sugerir vectores de ataque basados en registros **CVE (Common Vulnerabilities and Exposures)** y generar codigo, Scripts de pruebas(POC) y explotación(Exploit), analizar código fuente en busca de fallos de lógica que las herramientas de escaneo tradicionales suelen ignorar.
+
+**la IA no sustituye el juicio humano**. Su función principal es la de experto en conocimiento de vulnerabilidades, programación y scripts de  pruebas y explotacion, delegando en el auditor la responsabilidad de regir el proceso, validar los hallazgos y ejecutar las acciones finales.
 
 ---
 
 ## Proceso de Pentesting Integrado con IA
 
-A continuación, se detalla el flujo de trabajo dividido en las 6 fases estándar, integrando el uso de scripts de auditoría y prompts específicos para la IA.
+Flujo de trabajo dividido en las 6 fases, integrando el uso de scripts de auditoría y prompts específicos para la IA.
 
 | Fase | Descripción del Proceso | Acción / Scripts / Prompt |
 | :--- | :--- | :--- |
