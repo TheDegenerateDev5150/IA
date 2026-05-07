@@ -1,4 +1,4 @@
-### IA como asistente experto en pentesting y ciberseguridad
+## IA aplicada a la detección de vulnerabilidades y hacking etico (Offensive AI)
 
 ### Introducción
 
