@@ -1,5 +1,3 @@
-<img style="float:left" alt="hacking con IA" src="https://github.com/hackingyseguridad/ia/blob/main/banner.png">
-
 ---
 
 ### IA aplicada a la detección de vulnerabilidades y hacking (Offensive AI)
