@@ -20,7 +20,7 @@ suele ser menos restrictivo en su versión base (ejecutado en la terminal (CLI) 
 
 <img style="float:left" alt="hacking con IA OpenClaw" src="https://github.com/hackingyseguridad/ia/blob/main/openclaw.png">
 
-En consola (cli):
+En consola (Cli):
 
 Ver token: cat /usuario/.openclaw/openclaw.json
 
