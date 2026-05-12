@@ -32,6 +32,10 @@ openclaw tui
 
 <img style="float:left" alt="hacking con IA OpenClaw" src="https://github.com/hackingyseguridad/ia/blob/main/openclaw2.png">
 
+openclaw onboard
+
+openrouter
+
 #
 
 Referencias:
