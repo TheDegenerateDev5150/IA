@@ -28,6 +28,8 @@ Aplicar token: openclaw config set gateway.auth.token "XXXXXXXXXXXXXXXXXXXXXXXXX
 
 openclaw gateway run
 
+openclaw tui
+
 #
 
 Referencias:
