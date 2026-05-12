@@ -1,5 +1,7 @@
 #!/bin/sh
 # Script para ejecutar en local DeepSeek IA
+# La mejor opcion para hacking y seguridad, gratis!! 
+
 
 # Comprobar si ollama existe
 if command -v ollama >/dev/null 2>&1; then
@@ -19,3 +21,4 @@ fi
 
 echo "Ejecutando DeepSeek-R1:1.5b..."
 ollama run deepseek-r1:1.5b
+
