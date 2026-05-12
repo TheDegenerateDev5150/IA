@@ -1,0 +1,5 @@
+
+
+	ollama run gemma3:1b
+
+
