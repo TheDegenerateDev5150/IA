@@ -30,6 +30,8 @@ openclaw gateway run
 
 openclaw tui
 
+<img style="float:left" alt="hacking con IA OpenClaw" src="https://github.com/hackingyseguridad/ia/blob/main/openclaw2.png">
+
 #
 
 Referencias:
