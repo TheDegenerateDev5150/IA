@@ -28,7 +28,7 @@ Aplicar token: openclaw config set gateway.auth.token "XXXXXXXXXXXXXXXXXXXXXXXXX
 
 openclaw gateway run
 
-openclaw tui
+openclaw tui --local
 
 <img style="float:left" alt="hacking con IA OpenClaw" src="https://github.com/hackingyseguridad/ia/blob/main/openclaw2.png">
 
