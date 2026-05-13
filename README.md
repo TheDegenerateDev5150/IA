@@ -10,7 +10,7 @@ Actualmente **la IA no sustituye el criterio humano en una auditoría**; su func
 
 | Fase | Descripción del Proceso | Acción / Scripts / Prompt |
 | :--- | :--- | :--- |
-| **1. Reconocimiento (Recon)** | Recopilación de activos (IPs, FQDNs, rangos, URLs). La IA actúa analizando y clasificando los datos proporcionados por el auditor. | **Entrada:** Listado de activos para que la IA identifique superficies de ataque potenciales y clasifique la infraestructura. |
+| **1. Reconocimiento (Recon)** | Recopilación de activos (IPs, FQDNs, rangos, URLs, puertos, URIs). La IA actúa analizando y clasificando los datos proporcionados por el auditor. | **Entrada:** Listado de activos para que la IA identifique superficies de ataque potenciales y clasifique la infraestructura. |
 | **2. Escaneo y analisis** | Ejecución de herramientas (nmap,Nessus,Nikto,Scripts,...) técnicas para obtener datos en bruto. Los resultados se guardan en archivos estructurados (ej. `.xml .csv .txt`). | **Scripts:** - `redaudit.sh` (escaneos de puertos/servicios de la red),- `webaudit.sh` (para web/API), - `fqdnaudit.sh` (analisis a partir de un fqdn). |
 | **3. IA Analisis de los datos** | [Modo accesos IA ](https://github.com/hackingyseguridad/IA/blob/main/ia.md)  anexar fichero (`resultado.xml`) a la IA con los datos obtenidos para que procese la informacion, con la instruccion (prompt).: | **Prompt:** "ordena en una tabla resumen ejecutivo, los puertos/servicios con las vulnerabilidades CVE criticas y que hay exploit, son explotables" |
 | **4. IA Desarrollo de POC** | Scripts de Prueba de Concepto para verificar la existencia real de la vulnerabilidad de forma segura. | **Prompt:** "ordenados de mas facil a menos, codigo simple Script, en Bash Shell o Python3." |
