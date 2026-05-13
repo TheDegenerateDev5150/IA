@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 Negro='\033[0;30m'
 Rojo='\033[0;31m'
