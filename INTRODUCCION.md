@@ -25,7 +25,7 @@
 | ElevenLabs | Eleven Multilingual |
 | Midjourney | Midjourney |
 
-
+### Privacidad  
 
 
 
