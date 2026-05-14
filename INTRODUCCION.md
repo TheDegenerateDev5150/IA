@@ -10,7 +10,7 @@
 | Anthropic | Claude |
 | Meta | Llama |
 | Microsoft | Copilot |
-| x | Grok |
+| X | Grok |
 | Mistral AI | Mistral |
 | Alibaba (China) | Qwen |
 | Baidu (China) | ERNIE |
