@@ -22,8 +22,6 @@
 | 15 | MiniMax (China) | MiniMax | Programación, generación de código simple, análisis de datos. No incluye hacking ofensivo. |
 | 16 | iFLYTEK (China) | Spark Desk | Programación limitada, más orientado a voz y texto. Sin ciberseguridad ofensiva. |
 | 17 | Perplexity AI | Perplexity Pages | Búsqueda, resúmenes, investigación. No genera código ofensivo ni exploits. Capacidad de scripting muy limitada. |
-| 18 | ElevenLabs | Eleven Multilingual | Síntesis de voz, traducción, clonación de voz básica. No tiene habilidades de programación ni hacking. |
-| 19 | Midjourney | Midjourney | Generación de imágenes. Sin habilidades de programación, redes o ciberseguridad. |
 
 ### Privacidad de los datos del usuario IA:
 
