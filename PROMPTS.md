@@ -1,8 +1,8 @@
-### PROMPTS
+### PROMPT
 #
 
 
-| Tipo | Instrucción IA |
+| Tipo | Instrucción IA ( PROMPT ) |
 |:-----|:----------------|
 | **SKILL** | este modelo de IA, ¿qué tipo de habilidades puedes ver? |
 | **SKILL** | este modelo de IA tiene modos de "razonamiento extendido" o thinking? |
