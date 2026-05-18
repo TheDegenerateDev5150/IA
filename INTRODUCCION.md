@@ -10,7 +10,7 @@ Aquí tienes la tabla actualizada con la nueva columna **Exploit** (Si/No), seg�
 | 1 | OpenAI | GPT | No | Programación (Python, JS, etc.), razonamiento, redacción, análisis de datos básico. Sin hacking ofensivo, exploits o POCs maliciosos (restringido por políticas de seguridad). |
 | 2 | Google | Gemini | No | Programación, redes generales, documentación técnica, asistencia en ciberseguridad teórica. No permite generar exploits, malware o POCs ofensivos. |
 | 3 | Anthropic | Claude | No | Programación, análisis de seguridad, blue team (detección de vulnerabilidades teórica). Fuertemente alineado con IA "constitucional", rechaza hacking ofensivo y exploits. |
-| 4 | Meta | Llama | Sí | Modelo base abierto. Skills dependen del fine-tuning. Versión base: programación, scripts básicos, redes. Sin restricciones inherentes (el usuario puede fine-tunear para hacking ofensivo). |
+| 4 | Meta | Llama | No | Modelo base abierto. Skills dependen del fine-tuning. Versión base: programación, scripts básicos, redes. Sin restricciones inherentes (el usuario puede fine-tunear para hacking ofensivo). |
 | 5 | Microsoft | Copilot | No | Programación (especialmente en entornos MS), depuración, asistencia en redes. Prohibido generar exploits, malware o POCs ofensivos (integra políticas de seguridad de GitHub y MS). |
 | 6 | x | Grok | Si | Programación, análisis de datos, redes, scripting general. Tiene menos restricciones que OpenAI, pero no promueve activamente hacking ofensivo. |
 | 7 | Mistral AI | Mistral | Sí | Modelo base. Programación, scripts, automatización. Sin hardcore filtering por defecto (el usuario puede ajustar para tareas ofensivas si se implementa localmente). |
