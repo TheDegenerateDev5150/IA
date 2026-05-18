@@ -13,6 +13,11 @@
 | **EXPLOIT** | codigo de los Exploit disponibles, ordenados de mas facil explotación a menos |
 | **REPORT** | redacta informe técnico y resumen ejecutivo con recomendaciones de remediación, parcheo, configuracion, basado en las notas de los hallazgos proporcionados |
 
+
+| **VULN** | portal web: como comprobar de forma simple, si este portal web tiene vulnerabilidades: XSS, SQLi, SSRF, RCE, LFI/RFI, IDOR, Auth Bypass, Deserialización, etc. ? |
+
+
+
 #
 http://www.hackingyseguridad.com/
 #
