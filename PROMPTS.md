@@ -14,7 +14,7 @@
 | **REPORT** | redacta informe técnico y resumen ejecutivo con recomendaciones de remediación, parcheo, configuracion, basado en las notas de los hallazgos proporcionados |
 |:-----|:----------------|
 | **VULN** | **portal web**: como comprobar de forma simple, si este portal web tiene vulnerabilidades: XSS, SQLi, SSRF, RCE, LFI/RFI, IDOR, Auth Bypass, Deserialización, etc. ? |
-
+| **VULN** | **API / URL**: como comprobar de forma simple, si esta API / URI tiene vulnerabilidades: respuestas HTTP, Autenticación (oken, API key, JWT, básica), errores de DB, XSS, SQLi, SSRF, RCE, etc, ... ? |
 
 
 #
