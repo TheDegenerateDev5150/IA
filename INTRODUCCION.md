@@ -2,6 +2,7 @@
 ### lista ejemplo modelos de lenguaje de datos (LLM): habilidades por defecto (SKILs)
 
 
+
 | # | Compañía | IA Modelo | Exploit | Skills básicas (versión gratuita / básica) |
 |---|----------|-----------|---------|---------------------------------------------|
 | 1 | OpenAI | GPT | No | Programación (Python, JS, etc.), razonamiento, redacción, análisis de datos básico. Sin hacking ofensivo, exploits o POCs maliciosos (restringido por políticas de seguridad). |
