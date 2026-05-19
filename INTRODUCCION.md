@@ -1,9 +1,6 @@
 
-
-
 ### lista ejemplo modelos de lenguaje de datos (LLM): habilidades por defecto (SKILs)
 
-Aquí tienes la tabla actualizada con la nueva columna **Exploit** (Si/No), según si el modelo ofrece scripts para explotar vulnerabilidades CVE o solo información / POCs educativos:
 
 | # | Compañía | IA Modelo | Exploit | Skills básicas (versión gratuita / básica) |
 |---|----------|-----------|---------|---------------------------------------------|
