@@ -13,13 +13,8 @@
 | 6 | x | Grok | Si | Programación, análisis de datos, redes, scripting general. Facilita información detallada de los CVE, codigo para hacer pruebas de concepto (POC) y ofrece codigo en distintos lenguajes para explotar vulnerabilidades (Exploit). |
 | 7 | Mistral AI | Mistral | Sí | Modelo base. Programación, scripts, automatización. Sin hardcore filtering por defecto (el usuario puede ajustar para tareas ofensivas si se implementa localmente). |
 | 8 | Alibaba (China) | Qwen | Si | Programación, redes, análisis de vulnerabilidades básico. Facilita información detallada de los CVE, codigo para hacer pruebas de concepto (POC) y ofrece codigo en distintos lenguajes para explotar vulnerabilidades (Exploit). |
-| 9 | Baidu (China) | ERNIE | No | Programación, redes, ciberseguridad teórica. Restricciones legales chinas: no se permite generar exploits o malware. |
-| 10 | ByteDance (China) | Doubao | No | Programación, scripting, automatización de tareas. Bloquea contenido ofensivo y exploits. |
-| 11 | DeepSeek (China) | DeepSeek | Si | Programación avanzada, razonamiento matemático, scripts, POCs educativos. Permite cierto nivel de scripts de prueba (ethical hacking), pero restringe malware explícito. |
-| 12 | Moonshot AI (China) | Kimi | No | Programación, procesamiento de textos largos, análisis de redes. Sin hacking ofensivo o exploits. |
-| 13 | Zhipu AI (China) | GLM | No | Programación, razonamiento, análisis de vulnerabilidades a nivel teórico. No permite generación de exploits prácticos. |
-| 14 | Xiaomi (China) | MiMo | No | Programación básica, scripts de automatización, IoT y redes domésticas. Sin capacidades ofensivas. |
-| 15 | Perplexity AI | Perplexity Pages | No | Búsqueda, resúmenes, investigación. No genera código ofensivo ni exploits. Capacidad de scripting muy limitada. |
+| 9 | DeepSeek (China) | DeepSeek | Si | Programación avanzada, razonamiento matemático, scripts, POCs educativos. Permite cierto nivel de scripts de prueba (ethical hacking), pero restringe malware explícito. |
+| 10 | Perplexity AI | Perplexity Pages | No | Búsqueda, resúmenes, investigación. No genera código ofensivo ni exploits. Capacidad de scripting muy limitada. |
 
 ### Privacidad de los datos del usuario IA:
 
