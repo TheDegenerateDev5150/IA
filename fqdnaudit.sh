@@ -23,7 +23,7 @@ INFO
 if [ -z "$1" ]; then
         printf "${Amarillo}" ; echo
         echo "Test vulnerabilidades API."
-        echo "Uso: $0 <fqdn URI>"; printf "${Normal}\n"
+        echo "Uso: $0 <fqdn/IP> 2>&1 | tee resultado.xml "; printf "${Normal}\n"
         exit 0
 fi
 echo
