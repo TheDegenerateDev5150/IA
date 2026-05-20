@@ -1,3 +1,7 @@
+<img style="float:left" alt="http://hackingyseguridad.com/" src="https://github.com/hackingyseguridad/ia/blob/main/banner.png">
+
+---
+
 ### IA aplicada a la detección de vulnerabilidades y hacking (Offensive AI)
 
 [INTRODUCCION](https://github.com/hackingyseguridad/IA/blob/main/INTRODUCCION.md)
