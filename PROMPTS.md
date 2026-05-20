@@ -1,6 +1,6 @@
 ### PROMPT
-#
 
+#
 
 | Tipo | Instrucción IA ( PROMPT ) |
 |:-----|:----------------|
@@ -16,11 +16,10 @@
 | **REPORT** | 	informe profesional de pruebas de penetración con resúmen ejecutivo, puntuación CVSS y planes de reparos |
 |:-----|:----------------|
 | **VULN** | **portal web**: como comprobar de forma simple, si este portal web tiene vulnerabilidades: XSS, SQLi, SSRF, RCE, LFI/RFI, IDOR, Auth Bypass, Deserialización, etc. ? |
-| **VULN** | **API / URL**: como comprobar de forma simple, si esta API / URI tiene vulnerabilidades: respuestas HTTP, Autenticación (token, API key, JWT, básica), errores de DB, XSS, SQLi, SSRF, RCE,  XXE & Deserialization, Rate Limiting & DoS, Information Disclosure etc, ... ? |
+| **VULN** | **api / url**: como comprobar de forma simple, si esta API / URI tiene vulnerabilidades: respuestas HTTP, Autenticación (token, API key, JWT, básica), errores de DB, XSS, SQLi, SSRF, RCE,  XXE & Deserialization, Rate Limiting & DoS, Information Disclosure etc, ... ? |
 | **OSINT** | informacion del dominio, recopilación de correos electrónicos, elaboración de perfiles en redes sociales, análisis de datos de filtraciones |
-| **API** | pruebas de REST, GraphQL y WebSocket. OWASP API Top 10, ataques JWT, explotación de OAuth |
-| **POC** | genera y ejecuta de forma segura scripts de prueba de concepto. Elimina los falsos positivos |
-
+| **API** | **api** :pruebas de REST, GraphQL y WebSocket. OWASP API Top 10, ataques JWT, explotación de OAuth |
+| **POC** | **poc** : y ejecuta de forma segura scripts de prueba de concepto. Elimina los falsos positivos |
 
 
 #
