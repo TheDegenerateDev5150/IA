@@ -24,6 +24,38 @@
 
 (Local / Self-hosted) herramientas como Ollama, LM Studio o bibliotecas de Python. Se descarga el modelo (el "archivo" del cerebro de la IA) y lo ejecuta en un PC ene local, usando tu tarjeta gráfica (GPU) o procesador (CPU).  Tiene ventajas: seleccionar modo local o en la nube, trabajo desde la terminal (Cli), privacidad, suscripciones, filtros y personalización
 
+```text
++-----------------------------------------------------------------------------------+
+|                            1º.- MODELO NUBE ONLINE                                |
++-----------------------------------------------------------------------------------+
+  [ Usuario ]                                            [ Centros de Datos / Nube ]
+       |                                                              |
+       |  -- (1) Envía consulta por Web / API / CLI ----------------> |  Recibe datos
+       |                                                              |  del usuario
+       |                                                              |       |
+       |                                                              v       v
+       |                                                         [ Granjas de GPUs ]
+       |                                                         Proceso ultra veloz
+       |                                                              |
+       |  <-- (2) Devuelve respuesta procesada -----------------------+
+       |
+       v
++-----------------------------------------------------------------------------------+
+|                             2º.- MODELO LOCAL PC                                  |
++-----------------------------------------------------------------------------------+
+  [ Usuario ]           [ Sistema Local (Tu PC) ]               [ Servidor IA Nube ]
+       |                            |                                     |
+       |  -- (1) Envía consulta --> |                                     |
+       |                            | -- (2) Autentica y Factura -------> | Comprueba
+       |                            | <--- (Tokens consumidos) ---------- | y registra
+       |                            |                                     |
+       |                            | [ CPU / GPU Local ]                 |
+       |                            | Procesa la información             |
+       |                            | de forma privada                    |
+       |                            |                                     |
+       |  <-- (3) Devuelve rpta ----+                                     |
+
+
 
 
 
