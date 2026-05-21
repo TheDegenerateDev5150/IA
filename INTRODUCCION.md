@@ -18,7 +18,9 @@
 
 ### Privacidad de los datos del usuario IA: #modos
 
-1º.- **MODELO NUBE ONLINE** modelos LLM en internet: formulario WEB [(chatboot)](https://github.com/hackingyseguridad/IA/blob/main/chatboot.md) de IA o IA conversacional /API o consola (Cli), los datos del usuario se suben a la nube y la información es procesada por la compañia de la IA en centros de datos formados por granjas de GPUs con gran agilidad de proceso.
+1º.- **MODELO NUBE ONLINE** modelos LLM en internet: formulario WEB [(chatboot)](https://github.com/hackingyseguridad/IA/blob/main/chatboot.md) de IA o IA conversacional /API o consola (Cli), los datos del usuario se suben a la nube y la información es procesada por la compañia de la IA en centros de datos formados por granjas de GPUs con gran agilidad de proceso. 
+En los accesos por API o versiones corporativas (Enterprise),  "se suele estipular que los datos están protegidos y no se usan para entrenamiento", aunque se sigan procesando en sus granjas de GPUs, en los centros de datos en la nube.
+
 
 2º.- **MODELO LOCAL PC** modelo LLM instalado en localhost: por API/web (Chatboot) o por terminal [consola Cli)](https://github.com/hackingyseguridad/IA/blob/main/consola.md); , procesa la inforamción en la CPU/GPU del sistema local sin subir la informacón del usuario a la nube a la compañia de la IA - solo  para autenticar y facturacion tokens consumidos.
 
