@@ -14,7 +14,7 @@
 | 7 | Mistral AI (UE) | [Mistral AI](https://chat.mistral.ai) | Sí | Modelo base. Programación, scripts, automatización. Sin hardcore filtering por defecto (el usuario puede ajustar para tareas ofensivas si se implementa localmente). |
 | 8 | Alibaba (China) | [Qwen ](https://qwen.ai) | Si | Programación, redes, análisis de vulnerabilidades básico. Facilita información detallada de los CVE, codigo para hacer pruebas de concepto (POC) y ofrece codigo en distintos lenguajes para explotar vulnerabilidades (Exploit). |
 | 9 | DeepSeek (China) | [DeepSeek](https://www.deepseek.com) | Si | Programación avanzada, razonamiento matemático, scripts, POCs educativos. Permite cierto nivel de scripts de prueba (ethical hacking), pero restringe malware explícito. |
-| 10 | Perplexity AI | [Perplexity AI](https://www.perplexity.ai) | No | Búsqueda, resúmenes, investigación. No genera código ofensivo ni exploits. Capacidad de scripting muy limitada. |
+| 10 | Perplexity AI (EEUU) | [Perplexity](https://www.perplexity.ai) | No | Búsqueda, resúmenes, investigación. No genera código ofensivo ni exploits. Capacidad de scripting muy limitada. |
 
 ### Privacidad de los datos del usuario IA: #modos
 
