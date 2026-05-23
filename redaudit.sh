@@ -1,5 +1,5 @@
 #!/bin/sh
-# Esaneo de puertos/servicios y vulnerabilidades conocidas. 
+# Esaneo de puertos/servicios y vulnerabilidades conocidas.  @antonio_taboada
 cat << "INFO"
 
 (:`--..___...-''``-._             |`._
@@ -8,7 +8,7 @@ cat << "INFO"
             : :   :               `:`-'
              `.:.  `.._--...___     ``--...__      
                 ``--..,)       ```----....__,)   http://www.hackingyseguridad.com
-                 Aldea del Fresno
+                 Aldea del Fresno / Madrid 2026
 $$$$$$ $$$$$ $$$$  $$$ $$$$  $$$     $$$$     $$$$$$ $$$$$ $$$$$$$$$ $$$$$$$$$ $$$
 INFO
 if [ -z "$1" ]; then
