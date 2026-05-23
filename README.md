@@ -14,7 +14,7 @@ Actualmente **la IA no sustituye el criterio humano en una auditoría**; su func
 
 ### Proceso pentesting integrado: Kali Linux + IA
 
-[1. ALCANCE] ──> [2. ESCANEO DE VULNERABILIDADES] ──> [3. ODEN DE VULNERABILIDADES] ──> [4. PRUEBA VULNERABILIDADES] ──> [5. EXPLOTACIÓN] ──> [6. REPORTE]
+[1. ALCANCE] ──> [2. ESCANEO DE VULNERABILIDADES] ──> [3. CLASIFICAR VULNERABILIDADES] ──> [4. PRUEBA VULNERABILIDADES] ──> [5. EXPLOTACIÓN] ──> [6. INFORME]
 
 | Fase | Descripción del Proceso | Acción / Scripts / Prompt |
 | :--- | :--- | :--- |
