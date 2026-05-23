@@ -14,6 +14,8 @@ Actualmente **la IA no sustituye el criterio humano en una auditoría**; su func
 
 ### Proceso pentesting integrado: Kali Linux + IA
 
+[1. ALCANCE] ──> [2. ESCANEO DE VULNERABILIDADES] ──> [3. ODEN DE VULNERABILIDADES] ──> [4. PRUEBA VULNERABILIDADES] ──> [5. EXPLOTACIÓN] ──> [6. REPORTE]
+
 | Fase | Descripción del Proceso | Acción / Scripts / Prompt |
 | :--- | :--- | :--- |
 | **1. Reconocimiento (Recon)** | Recopilación de activos (IPs, FQDNs, rangos, URLs, puertos, URIs). La IA actúa analizando y clasificando los datos proporcionados por el auditor. | **Entrada:** Listado de activos para que la IA identifique superficies de ataque potenciales y clasifique la infraestructura. |
