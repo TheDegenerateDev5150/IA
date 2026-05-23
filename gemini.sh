@@ -9,7 +9,7 @@ cat << "INFO"
             : :   :               `:`-'
              `.:.  `.._--...___     ``--...__      
                 ``--..,)       ```----....__,)   http://www.hackingyseguridad.com
-                 Aldea del Fresno 2026
+                 Aldea del Fresno / Madrid 2026
 $$$$$$ $$$$$ $$$$  $$$ $$$$  $$$     $$$$     $$$$$$ $$$$$ $$$$$$$$$ $$$$$$$$$ $$$
 INFO
 
