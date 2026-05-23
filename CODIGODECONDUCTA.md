@@ -34,3 +34,6 @@ Consecuencias legales si la herramienta se utiliza indebidamente de forma que in
 
 se creó con el objetivo de mejorar la ciberseguridad , ayudando a organizaciones e investigadores a encontrar y corregir vulnerabilidades antes de que puedan ser explotadas. Colaboremos para garantizar que se utilice únicamente con fines éticos y legales.
 
+#
+http://goo.gl/ID8XBX  
+#
