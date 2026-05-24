@@ -105,3 +105,8 @@ En modelos hibridos, la interfaz es localhost (terminal(Cli), api o web), pero e
 | **CVSS** | Common Vulnerability Scoring System | **Sistema de Puntuación de Vulnerabilidades Comunes**: Sistema estandarizado de la industria para evaluar y clasificar la gravedad de las vulnerabilidades de seguridad de software. |
 
 
+
+#
+http://www.hackingyseguridad.com/
+#
+
