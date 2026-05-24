@@ -1,6 +1,6 @@
 #!/bin/sh
 # Script: reconaudit.sh
-# Uso: sh recon.sh <dominio|FQDN|IP>
+# Uso: sh recon.sh <dominio|FQDN|IP>  2>&1 | tee resultado.xml
 # Compatible con shells antiguas (Bash 1.0.x y sh)
 
 # Colores básicos (si no soporta, se pueden quitar)
