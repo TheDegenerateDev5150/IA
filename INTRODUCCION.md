@@ -63,8 +63,7 @@ En modelos hibridos, la interfaz es localhost (terminal(Cli), api o web), pero e
        |                            |                                     |
        |  <-- (3) Devuelve rpta ----+                                     |
 
-
-
+```
 
 # Glosario de Acrónimos de Ciberseguridad
 
@@ -87,4 +86,5 @@ En modelos hibridos, la interfaz es localhost (terminal(Cli), api o web), pero e
 | **WAF** | Web Application Firewall | **Cortafuegos de Aplicaciones Web**: Cortafuegos específico que filtra, monitorea y bloquea el tráfico HTTP malicioso que viaja hacia y desde una aplicación web. |
 | **CVE** | Common Vulnerabilities and Exposures | **Vulnerabilidades y Exposiciones Comunes**: Lista oficial y pública de fallos de seguridad informática identificados de forma única mediante un identificador estándar. |
 | **CVSS** | Common Vulnerability Scoring System | **Sistema de Puntuación de Vulnerabilidades Comunes**: Sistema estandarizado de la industria para evaluar y clasificar la gravedad de las vulnerabilidades de seguridad de software. |
+
 
