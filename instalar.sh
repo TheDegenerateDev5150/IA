@@ -35,5 +35,5 @@ echo "....."
 echo
 echo "actualizado !!! "
 echo 
-
+df -h
 
