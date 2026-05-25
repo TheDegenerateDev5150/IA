@@ -17,6 +17,10 @@ para ayudar a identificar vulnerabilidades conocidas CVE, como para hacking ofen
 [DeepSeek Coder ](https://github.com/hackingyseguridad/IA/blob/main/deepseek2.sh) ; modelo de lenguaje (especializado en programacion), 
 suele ser menos restrictivo en su versión base (ejecutado en la terminal (CLI) localmente) o para detección de bugs críticos
 
+[Mistral IA](https://github.com/hackingyseguridad/IA/mistral.sh) sin restricciones para dar detalle del funcionamiento de vulnerabilidades CVE, POC, Exploits, facilitar el codigo para la explotacion o enlaces .
+
+<img style="float:left" alt="hacking con Mistral IA" src="https://github.com/hackingyseguridad/IA/blob/main/mistral.png">
+
 [Qween3.6](https://github.com/hackingyseguridad/IA/blob/main/qwen3_6.sh) ; Qwen3.6 la IA de Alibaba, requiere 23GB de epacio en disco duro
 
 [OpenClaw](https://openclaw.ai/) ; OpenClaw, permite instalarse en Kali Linux en modo (Cli) e interactuar con las herramientas de Kali Linux y la xonexión disponible!  https://docs.openclaw.ai/start/getting-started 
