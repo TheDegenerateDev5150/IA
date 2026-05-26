@@ -16,6 +16,8 @@ Actualmente **la IA no sustituye el criterio humano en una auditoría**; su func
 
 [1. ALCANCE] ──> [2. ESCANEO DE VULNERABILIDADES] ──> [3. CLASIFICAR VULNERABILIDADES] ──> [4. PRUEBA VULNERABILIDADES] ──> [5. EXPLOTACIÓN] ──> [6. INFORME]
 
+| ALCANTE | ESCANEO | CLAS VULN  | POC | EXPLOIT | RPORTT |
+
 | Fase | Descripción del Proceso | Acción / Scripts / Prompt |
 | :--- | :--- | :--- |
 | **1. IA Reconocimiento (Recon), informacion inicial** | Recopilación de activos (IPs, FQDNs, rangos, URLs, puertos, URIs). La IA actúa analizando y clasificando los datos proporcionados por el auditor. | **Entrada:** Listado de activos para que la IA identifique superficies de ataque potenciales y clasifique la infraestructura. |
