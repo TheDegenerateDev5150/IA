@@ -14,8 +14,6 @@ Actualmente **la IA no sustituye el criterio humano en una auditoría**; su func
 
 ### Proceso pentesting integrado: Kali Linux + IA
 
-[1. ALCANCE] ──> [2. ESCANEO DE VULNERABILIDADES] ──> [3. CLASIFICAR VULNERABILIDADES] ──> [4. PRUEBA VULNERABILIDADES] ──> [5. EXPLOTACIÓN] ──> [6. INFORME]
-
 | 1º ──> | 2º ──> | 3º ──> | 4º ──> | 5º ──> | 6º ──> |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Acance (RECON) | Escaneo de vulnerabilidades (SCAN) | Clasifica vulnerabilidades (VULNS) | Prueba de concepto (POC) | Explota vulnerabilidades (EXPLOIT) | Informe (RPORTT) |
