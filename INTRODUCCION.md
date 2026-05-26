@@ -88,6 +88,7 @@ En modelos hibridos, la interfaz es localhost (terminal(Cli), api o web), pero e
 | **Modelo** | Model | **Modelo**: Estructura matemática o algoritmo computacional que ha sido entrenado con datos para reconocer patrones y realizar predicciones o generar contenido. |
 | **Prompt** | Prompt IA | **Instrucción / Consigna**: Texto o comando de entrada que se le proporciona a un modelo de IA para guiarlo y obtener una respuesta específica. |
 | **Agente** | Agent IA | **Agente IA**: Capaz de tomar decisiones y actuar de forma autónoma para alcanzar un objetivo específico, sin necesidad de supervisión humana constante. |
+| **VSCode** | VS Code | **VS Code**: Visual Studio Code, (VSCode=, es un editor de código para programadores gratuito, de código abierto y multiplataforma. Desarrollado por Microsoft, para la creación de IDEs (entornos de desarrollo integrados). |
 | **IPSec** | Internet Protocol Security | **Seguridad del Protocolo de Internet**: Conjunto de protocolos para asegurar las comunicaciones de red cifrando y autenticando cada paquete de datos. |
 | **SSL** | Secure Sockets Layer | **Capa de Sockets Seguros**: Protocolo de seguridad antiguo (reemplazado por TLS) para establecer enlaces cifrados entre un servidor web y un navegador. |
 | **TLS** | Transport Layer Security | **Seguridad de la Capa de Transporte**: Protocolo criptográfico seguro y moderno que sucede a SSL, utilizado para proteger las transferencias de datos en la web (HTTPS). |
