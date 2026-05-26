@@ -16,9 +16,9 @@ Actualmente **la IA no sustituye el criterio humano en una auditoría**; su func
 
 [1. ALCANCE] ──> [2. ESCANEO DE VULNERABILIDADES] ──> [3. CLASIFICAR VULNERABILIDADES] ──> [4. PRUEBA VULNERABILIDADES] ──> [5. EXPLOTACIÓN] ──> [6. INFORME]
 
-| 1º| 2º | 3º | 4º | 5º | 6º |
+| 1º ──> | 2º ──> | 3º  ──> | 4º  ──> | 5º  ──> | 6º  ──> |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| ALCANCE | ESCANEO | CLASIFICA VULN  | POC | EXPLOIT | RPORTT |
+| ALCANCE (RECON) | ESCANEO DE VULNERABILIDADES (SCAN) | CLASIFICA VULNERABILIDADES (VULNS) | PRUEBA DE CONCPETO (POC) | EXPLOTA VULNERABILIDADES (EXPLOIT) | INFORME (RPORTT) |
 
 | Fase | Descripción del Proceso | Acción / Scripts / Prompt |
 | :--- | :--- | :--- |
