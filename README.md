@@ -18,7 +18,7 @@ Actualmente **la IA no sustituye el criterio humano en una auditoría**; su func
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Alcance (RECON) | Escaneo de vulnerabilidades (SCAN) | Clasifica vulnerabilidades (VULN) | Prueba de concepto (POC) | Explota vulnerabilidades (EXPLOIT) | Informe (REPORTT) |
 
-### Fases:
+### Fases hacking:
 
 | Fase | Descripción del Proceso | Acción / Scripts / Prompt |
 | :--- | :--- | :--- |
