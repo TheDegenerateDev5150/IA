@@ -4,6 +4,7 @@
 echo "Instalando herramientas para hacking con IA ... "  
 echo "(R) hackingyseguridad.com 2026 "
 chmod 777 *
+apt-get install zstd
 echo
 # Comprobar si ollama ya esta instalado 
 if command -v ollama >/dev/null 2>&1; then
