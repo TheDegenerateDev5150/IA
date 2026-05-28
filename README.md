@@ -16,7 +16,7 @@ Actualmente **la IA no sustituye el criterio humano en una auditoría**; su func
 
 | 1º ──> | 2º ──> | 3º ──> | 4º ──> | 5º ──> | 6º ──> |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Alcance (RECON) OSINT | Escaneo de vulnerabilidades (SCAN) (nmap, nessus, ) | IA Clasifica CVVS vulnerabilidades (VULN) | Prueba de concepto (POC) Scripts IA | Explota vulnerabilidades (EXPLOIT) Script IA | Informe PDF (REPORT) con IA |
+| Alcance (RECON) OSINT IA | Escaneo de vulnerabilidades (SCAN) (nmap, nessus, ) | IA Clasifica CVVS vulnerabilidades (VULN) | Prueba de concepto (POC) Scripts IA | Explota vulnerabilidades (EXPLOIT) Script IA | Informe PDF (REPORT IA) |
 
 ### Fases hacking:
 
