@@ -69,6 +69,8 @@ https://github.com/bugbasesecurity/pentest-copilot
 
 https://github.com/hypnguyen1209/offensive-claude
 
+https://opencode.ai/
+
 #
 http://goo.gl/ID8XBX 
 #
