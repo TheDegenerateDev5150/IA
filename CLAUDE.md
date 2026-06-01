@@ -7,6 +7,9 @@ curl -fsSL https://claude.ai/install.sh | sh
 
 claude --version
 
+claude
+
+
 #
 
 http://hackingyseguridad.com/
