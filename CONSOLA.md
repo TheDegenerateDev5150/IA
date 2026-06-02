@@ -8,6 +8,14 @@ para ayudar a identificar vulnerabilidades conocidas CVE, como para hacking ofen
   
 [ClaudeCode.sh](https://github.com/hackingyseguridad/IA/blob/main/claudecode.sh) ; la IA de Anthropic desde la terminal (CLI) tiene una alta capacidad de análisis; Claude Code tiene Skils instalables o plugins, para hacer la IA mas  especialista, p.ej en analizar vulnerabilidades o p.ej skils especificos de hacking.
 
+**Instalar Claude Code Security** , desde la terminal (Cli)
+
+curl -fsSL https://claude.ai/install.sh | sh
+
+claude --version
+
+claude
+
 <img style="float:left" alt="hacking con IA Claude Code" src="https://github.com/hackingyseguridad/ia/blob/main/claudecode.png">
 
 Anthropic Claude Code Security Mythos opera de forma agéntica; no es un simple emulador o sandbox, sino que interactúa con herramientas, ejecuta scripts, analiza codigo, vulnerabilidades lógicas complejas, corrupción de memoria y fallos estructurales en sistemas operativos, navegadores (como Firefox) y protocolos de red, simula el comportamiento de un atacante y analiza las respuestas del sistema para validar si el fallo que ha descubierto es realmente explotable.
