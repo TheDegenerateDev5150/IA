@@ -10,7 +10,11 @@ para ayudar a identificar vulnerabilidades conocidas CVE, como para hacking ofen
 
 **Instalar Claude Code Security** , desde la terminal (Cli)
 
-curl -fsSL https://claude.ai/install.sh | sh
+curl -fsSL https://claude.ai/install.sh | bash 
+
+cd ~/.local/bin
+
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
 
 claude --version
 
