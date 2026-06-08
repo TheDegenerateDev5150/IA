@@ -22,6 +22,8 @@ if command -v systemctl >/dev/null 2>&1; then
     fi
 fi
 
+curl -fsSL https://claude.ai/install.sh | bash
+
 echo
 echo "... actualizando diccionarios ...  (R) 2025 hackingyseguridad.com "
 echo
