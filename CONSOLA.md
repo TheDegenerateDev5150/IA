@@ -22,8 +22,23 @@ claude
 
 <img style="float:left" alt="hacking con IA Claude Code" src="https://github.com/hackingyseguridad/ia/blob/main/claudecode.png">
 
-podemos crear un fichero [CLAUDE.md](https://github.com/hackingyseguridad/IA/blob/main/CLAUDE.md) con los requisitos, especificando preconfiguración especifica, de los parametros que queremos tenga nuestras web, API o aplicativos que creemos con Claude;
+podemos crear un fichero [CLAUDE.md](https://github.com/hackingyseguridad/IA/blob/main/CLAUDE.md) con los requisitos, especificando preconfiguración especifica, de los parametros que queremos tenga nuestra: automatizacion, web, API o aplicativos que creemos con Claude;
 
+Las Skills, son lo requisitos especificos, o inforamción adicional que dotaremos a la IA. Hay dos tipos de SKILLs, donde especificaremos parametros concretos de lo que queremos y no:
+
+skills capacidades, tarea especifica
+
+skills secuenciales, autmatizacion
+
+CLAUDE.md
+
+.clude/SKILLS/Vuln/
+
+.claude/skills/poc/
+
+.claude/skills/exploit/
+
+.claude/skills/poc/
 
 Anthropic Claude Code Security Mythos opera de forma agéntica; no es un simple emulador o sandbox, sino que interactúa con herramientas, ejecuta scripts, analiza codigo, vulnerabilidades lógicas complejas, corrupción de memoria y fallos estructurales en sistemas operativos, navegadores (como Firefox) y protocolos de red, simula el comportamiento de un atacante y analiza las respuestas del sistema para validar si el fallo que ha descubierto es realmente explotable.
 
