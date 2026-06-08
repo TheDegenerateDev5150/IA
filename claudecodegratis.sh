@@ -6,7 +6,7 @@
 # Tenemos que instalar primero Claude , con API Gratuita, sin saldo ni inscripcion
 #  curl -fsSL https://claude.ai/install.sh | bash
 
-echo "CLAUDE CODE: -- hackingyseguridad.com -- "
+echo "CLAUDE CODE: -- hackingyseguridad.com -- v1.0 "
 
 # Opcion1
 # ollama launch claude --config
