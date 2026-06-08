@@ -2,9 +2,9 @@
 # hackingyseguridad.com 2026 
 # Script Bash Shell 1.0.x para ejecutar Claude Code, con ollana
 # Tenemos que instalar Ollama
-# 
+#  curl -fsSL https://ollama.com/install.sh | sh
 # Tenemos que instalar primero Claude , con API Gratuita, sin saldo ni inscripcion
-# curl -fsSL https://claude.ai/install.sh | bash
+#  curl -fsSL https://claude.ai/install.sh | bash
 
 
 # Opcion1
