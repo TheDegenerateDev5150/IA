@@ -1,6 +1,7 @@
 #!/bin/sh
 
 # Script  para escanear vulnerabilidades con Claude Security Beta, en la carpeta actual
+# Claude Security busca:  SQLi, XSS, RCE, omisión de autenticación
 # ./claudesecuritybeta.sh /ruta/a/escanear
 # https://claude.com/pricing/enterprise
 
