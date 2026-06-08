@@ -30,7 +30,7 @@ We aim to acknowledge reports within 72 hours and resolve confirmed issues withi
 
 ## Reporting a Vulnerability Found Using This Library
 
-If you discover a vulnerability in a third-party product or service while using `hackingyseguridad-IA`'s methodologies, follow that vendor's responsible disclosure process. The [`offensive-reporting`](Skills/utility/offensive-reporting/SKILL.md) skill includes guidance on responsible disclosure, evidence handling, and report writing.
+If you discover a vulnerability in a third-party product or service while using `hackingyseguridad-IA`'s methodologies, follow that vendor's responsible disclosure process. [hackingyseguridad@hackingyseguridad.com](hackingyseguridad@hackingyseguridad.com)
 
 If the vendor has no published security contact:
 
@@ -47,7 +47,7 @@ This repository is signed by SnailSploit. Verify commit signatures with:
 git log --show-signature
 ```
 
-If you receive a `claude-red` archive from a third party (mirror, pastebin, package manager), verify it against the upstream repository before using.
+If you receive a `hackingyseguridad-IA` archive from a third party (mirror, pastebin, package manager), verify it against the upstream repository before using.
 
 ## Scope
 
