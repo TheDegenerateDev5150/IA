@@ -1,3 +1,7 @@
+<img style="float:left" alt="http://hackingyseguridad.com/" src="https://github.com/hackingyseguridad/ia/blob/main/banner0.png">
+
+---
+
 Descargo de responsabilidad sobre el uso legal y ético
 Solo para uso autorizado
 Este conjunto de herramientas está destinado exclusivamente a los siguientes fines:
