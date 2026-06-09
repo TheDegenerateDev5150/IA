@@ -88,8 +88,6 @@ Distribuido bajo [Licencia MIT](https://github.com/hackingyseguridad/IA/blob/mai
 
 <div align="center">
 
-🌐 [**hackingyseguridad.com**](http://www.hackingyseguridad.com/)
-
-*Seguridad ofensiva · Auditoría · Formación · Investigación*
+ [**www.hackingyseguridad.com**](http://www.hackingyseguridad.com/)
 
 </div>
