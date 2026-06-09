@@ -1,5 +1,7 @@
 <img style="float:left" alt="http://hackingyseguridad.com/" src="https://github.com/hackingyseguridad/ia/blob/main/banner.png">
 
+---
+
 ### Hacking ofensivo con code IA en local: modelos especializados en programación y ciberseguridad
 
 para ayudar a identificar vulnerabilidades conocidas CVE, como para hacking ofensivo (explotar vulnerabilidades o hacer pruebas de concepto PoC), **ambos sirven**, facilitaran darán Script con Exploit, listos  para copiar y pegar! o **conectar la IA con Kali Linux** (Function Calling), para ejecutar comandos o Script con las herramientas del SO Kali Linux (Distribución Linux Pentesting) 
