@@ -46,6 +46,24 @@ usa la SKILL /home/antonio/IA/claude/skills/Exploit/SKILL.md
 
 usa la SKILL /home/antonio/IA/claude/skills/report/SKILL.md
 
+---
+
+IA/
+└── claude/
+    ├── README.md
+    └── skills/
+        ├── Exploit/
+        │   └── SKILL.md
+        ├── POC/
+        │   └── SKILL.md
+        ├── Vuln/
+        │   └── SKILL.md
+        ├── recon/
+        │   └── SKILL.md
+        └── report/
+            └── SKILL.md
+
+---
 
 Anthropic Claude Code Security Mythos opera de forma agéntica; no es un simple emulador o sandbox, sino que interactúa con herramientas, ejecuta scripts, analiza codigo, vulnerabilidades lógicas complejas, corrupción de memoria y fallos estructurales en sistemas operativos, navegadores (como Firefox) y protocolos de red, simula el comportamiento de un atacante y analiza las respuestas del sistema para validar si el fallo que ha descubierto es realmente explotable.
 
