@@ -28,7 +28,7 @@ claude
 
 podemos crear un fichero [CLAUDE.md](https://github.com/hackingyseguridad/IA/blob/main/CLAUDE.md) con los requisitos, especificando preconfiguración especifica, de los parametros que queremos tenga nuestra: automatizacion, web, API o aplicativos que creemos con Claude;
 
-Las Skills, son lo requisitos especificos, o inforamción adicional que dotaremos a la IA. Hay dos tipos de SKILLs, donde especificaremos parametros concretos de lo que queremos y no:
+Las SKILLs, son los requisitos especificos, o inforamción adicional que dotaremos a la IA. Hay dos tipos de SKILLs, donde especificaremos parametros concretos de lo que queremos y no:
 
 1.- skills capacidades, tarea especifica
 
