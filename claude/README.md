@@ -35,7 +35,7 @@ IA/
 
 Cómo usar una Skill en Claude Code (Ejemplos concretos)
 
-| Skill | Comando de uso |
+| Skill | Comando de uso y ruta en local donde esta la SKILL |
 |-------|----------------|
 | Principal | `usa la SKILL /home/antonio/IA/claude/README.md` |
 | Reconocimiento | `usa la SKILL /home/antonio/IA/claude/skills/recon/SKILL.md` |
