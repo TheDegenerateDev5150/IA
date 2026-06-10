@@ -2,6 +2,15 @@
 
 Este documento explica la estructura y el propósito de cada Skill en el repositorio de IA para pentesting. Las Skills permiten a Claude Code ejecutar tareas especializadas de seguridad ofensiva de manera estructurada y reproducible.
 
+### Skills de Claude Code
+
+Las Skills son los requisitos específicos o información adicional que se dota a la IA. Hay dos tipos:
+
+| Tipo | Descripción |
+|---|---|
+| **Skills de capacidad** | Tarea específica y concreta |
+| **Skills secuenciales** | Automatización encadenada de pasos |
+
 ###  IA Pentesting Skills (Claude Code)
 
 Este documento describe la estructura de Skills para pentesting utilizada en el proyecto `IA/claude/skills`.
