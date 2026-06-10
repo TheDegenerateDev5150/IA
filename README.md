@@ -20,7 +20,7 @@ La Inteligencia Artificial actúa como un **asistente experto especializado** co
 - **Generación de scripts:** produce código de prueba en múltiples lenguajes (Bash, Python, C) para: pruebas de detección, pruebas de concepto (POC) y scripts de explotación de vulnerabilidades confirmadas.
 - **Aceleración del proceso:** ayuda a ejecutar las pruebas de forma más rápida y eficiente, reduciendo el tiempo invertido en tareas repetitivas o de análisis masivo de datos.
 
-> ⚠️ **Importante:** La IA no sustituye el criterio humano en una auditoría. El auditor sigue siendo quien rige el proceso y el único responsable de validar hallazgos, acciones y conclusiones.
+>  **Importante:** La IA no sustituye todavia el criterio humano en una auditoría. El auditor sigue siendo quien rige el proceso y el único responsable de validar hallazgos, acciones y conclusiones.
 
 ---
 
@@ -73,8 +73,8 @@ Consulta [INTRODUCCIÓN](https://github.com/hackingyseguridad/IA/blob/main/INTRO
 
 Este conjunto de herramientas y técnicas está destinado **exclusivamente a pruebas de seguridad autorizadas**. Los usuarios deben contar con la **autorización escrita** correspondiente antes de utilizar estas herramientas en cualquier sistema o infraestructura.
 
-- 📄 [DISCLAIMER.md](https://github.com/hackingyseguridad/IA/blob/main/DISCLAIMER.md) — Términos y condiciones completos
-- 📜 [Código de conducta](https://github.com/hackingyseguridad/IA/blob/main/CODIGODECONDUCTA.md)
+- [DISCLAIMER.md](https://github.com/hackingyseguridad/IA/blob/main/DISCLAIMER.md) — Términos y condiciones completos
+- [Código de conducta](https://github.com/hackingyseguridad/IA/blob/main/CODIGODECONDUCTA.md)
 
 El uso indebido de estas herramientas fuera de un entorno autorizado puede constituir un delito. Los autores no se responsabilizan del uso ilegítimo o malintencionado de este repositorio.
 
