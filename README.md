@@ -65,7 +65,6 @@ La metodología es agnóstica al modelo. Puede utilizarse con:
 - **Modelos en la nube:** Claude (Anthropic), Gemini (Google), GPT-4 (OpenAI), Grok (xAI)
 - **Modelos locales (privacidad total):** Llama, Mistral, DeepSeek, Qwen — ejecutados en local vía Ollama u otras interfaces
 
-Consulta [INTRODUCCIÓN](https://github.com/hackingyseguridad/IA/blob/main/INTRODUCCION.md) para una comparativa de modelos en cuanto a permisividad, calidad de output ofensivo y consideraciones de privacidad.
 
 ---
 
