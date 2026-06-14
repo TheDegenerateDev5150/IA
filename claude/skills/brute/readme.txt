@@ -1,2 +1,4 @@
-haz un SKILL.md para Pruebas de concepto ataques de diccionario y explotación de vulnerabilidades de autenticación fuerza bruta,  en distintos servicios , sobre una IP o un FQDN, con el servicio  activo
+Esta SKILL.md tiene que usarse con estos repositorios de Script
+
 https://github.com/hackingyseguridad/brute
+https://github.com/hackingyseguridad/diccionarios
