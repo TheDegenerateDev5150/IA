@@ -14,7 +14,6 @@ claude --dangerously-skip-permissions --system-prompt-file CLAUDE-FABLE-5.md
 
 --system-prompt-file reemplaza el system prompt predeterminado con este archivo. El modelo sigue siendo el mismo, solo el comportamiento cambia al estilo Fable 
 
-5. Prueba a ejecutar una tarea conocida una vez con Fable y otra con Opus normal para ver las diferencias.
 
 Registrar el comando dedicado fable
 
@@ -24,8 +23,8 @@ bash
 
 ### 1) Guardar el prompt
 mkdir -p ~/.claude
-curl -fsSL https://raw.githubusercontent.com/elder-plinius/CL4R1T4S/main/ANTHROPIC/CLAUDE-FABLE-5.md \
-  -o ~/.claude/CLAUDE-FABLE-5.md
+
+curl -fsSL https://raw.githubusercontent.com/elder-plinius/CL4R1T4S/main/ANTHROPIC/CLAUDE-FABLE-5.md \   -o ~/.claude/CLAUDE-FABLE-5.md
 
 ### 2) Añadir a ~/.zshrc (o ~/.bashrc)
 
@@ -43,9 +42,7 @@ powershell
 
 New-Item -ItemType Directory -Force "$HOME\.claude" | Out-Null
 
-Invoke-WebRequest https://raw.githubusercontent.com/elder-plinius/CL4R1T4S/main/ANTHROPIC/CLAUDE-FABLE-5.md `
-
-  -OutFile "$HOME\.claude\CLAUDE-FABLE-5.md"
+Invoke-WebRequest https://raw.githubusercontent.com/elder-plinius/CL4R1T4S/main/ANTHROPIC/CLAUDE-FABLE-5.md ` -OutFile "$HOME\.claude\CLAUDE-FABLE-5.md"
 
 ### 2) Añadir la función a $PROFILE
 
@@ -61,8 +58,8 @@ bash
 
 fable                  # Inicia con el prompt de Fable 5
 
-
-
-
 fable -c               # Continúa (continue)
 fable "refactoriza esto"    # Pasa el argumento directamente
+
+
+
