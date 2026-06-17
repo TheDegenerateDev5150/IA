@@ -52,6 +52,9 @@ Claude Code tiene **Skills** instalables (plugins) para especializar la IA, por 
 
 > También disponible: **Claude Code Security** y **Claude Mythos** (modelo de frontera avanzado).
 
+<img style="float:left" alt="hacking con IA Claude Code" src="https://github.com/hackingyseguridad/ia/blob/main/claudecode0.png">
+
+
 ### Instalación de Claude Code
 
 ```bash
