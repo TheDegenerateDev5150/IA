@@ -111,6 +111,14 @@ usa la SKILL /home/antonio/IA/claude/skills/Exploit/SKILL.md
 usa la SKILL /home/antonio/IA/claude/skills/report/SKILL.md
 ```
 
+En la ventan de conexto podemos poner un PROMPT con una limitación de caracteres , para dar mas especificaciones / requisitos previos e instruccion muy detalladas de mucha potencia usaremos CLAUDE.md y  SKILLs, P .ej.: 
+
+carga / lee el  fichero resultado.xml en la carpeta /home/antonio/IA y usa las SKILL:
+ /home/antonio/IA/claude/README.md
+ /home/antonio/IA/claude/skills/recon/SKILL.md
+ /home/antonio/IA/claude/skills/Vuln/SKILL.md 
+
+
 Vulnerabilidades
 
 <img style="float:left" alt="hacking con IA Claude Code" src="https://github.com/hackingyseguridad/ia/blob/main/claudecode1.png">
