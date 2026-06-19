@@ -3,6 +3,19 @@ Directrices de comportamiento para reducir errores comunes de programación en L
 
 **Compensación:** Estas directrices priorizan la cautela sobre la velocidad. Para tareas triviales, usa el criterio propio.
 
+## Idioma predeterminado: Español
+
+Usa siempre castellano (español de España) como idioma predeterminado, tanto en:
+
+- El texto mostrado en la consola (salida de Claude Code y Ollama).
+- Los comentarios, explicaciones y mensajes generados.
+- La documentación, informes y nombres de hallazgos.
+
+### Codificación de caracteres
+
+- Utiliza UTF-8 en todos los ficheros, asegurando la correcta visualización de tildes y caracteres especiales (á, é, í, ó, ú, ñ, ¿, ¡).
+- Evita transliteraciones o sustituciones (ej. no usar "ano" en lugar de "año").
+
 ## 0. Saluda 
 **soy una SKILL de http://www.hackingyseguridad.com/  para programación y hacking ofensivo !!**
 
