@@ -25,6 +25,11 @@ echo
 echo "Interface CLAUDE CODE ,  impulsado por otro modelo online:cloud: -- hackingyseguridad.com -- v1.0 "
 echo "/"
 
+echo
+ollama -v
+claude -v
+echo
+
 # Opcion0
 # ollama launch claude --config
 # escogemos una opcion para ejecutar claude code online o local impulsado
