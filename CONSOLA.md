@@ -118,21 +118,24 @@ IA/
 
 **Cómo usar una Skill en Claude Code:**
 
+En la ventana de conexto podemos poner un PROMPT con una limitación de caracteres , para dar mas especificaciones / requisitos previos e instruccion muy detalladas de mucha potencia usaremos CLAUDE.md y  SKILLs, P .ej.: 
+
 ```
-usa la SKILL /home/antonio/IA/.claude/README.md
-usa la SKILL /home/antonio/IA/.claude/skills/recon/SKILL.md
-usa la SKILL /home/antonio/IA/.claude/skills/Vuln/SKILL.md
-usa la SKILL /home/antonio/IA/.claude/skills/POC/SKILL.md
-usa la SKILL /home/antonio/IA/.claude/skills/Exploit/SKILL.md
-usa la SKILL /home/antonio/IA/.claude/skills/report/SKILL.md
+carga / lee los  ficheros:  resultadofqdn.xml  resultadored.xml  resultadoweb.xml , en la carpeta /home/antonio/IA/ejemplo/3/ y 
+
+usa la SKILL global en: /home/antonio/IA/.claude/README.md
+
+usa la SKILL de recon en:  /home/antonio/IA/.claude/skills/recon/SKILL.md
+
+usa la SKILL de ordenar vulnerabilidades en: /home/antonio/IA/.claude/skills/Vuln/SKILL.md
+
+usa la SKILL para pruebas de concepto en: /home/antonio/IA/.claude/skills/POC/SKILL.md
+
+usa la SKILL para explotacion de vulnerabilidades en: /home/antonio/IA/.claude/skills/Exploit/SKILL.md
+
+usa la SKILL para el informe final en: /home/antonio/IA/.claude/skills/report/SKILL.md
 ```
 
-En la ventan de conexto podemos poner un PROMPT con una limitación de caracteres , para dar mas especificaciones / requisitos previos e instruccion muy detalladas de mucha potencia usaremos CLAUDE.md y  SKILLs, P .ej.: 
-
-carga / lee el  fichero resultado.xml en la carpeta /home/antonio/IA y usa las SKILL:
- /home/antonio/IA/.claude/README.md
- /home/antonio/IA/.claude/skills/recon/SKILL.md
- /home/antonio/IA/.claude/skills/Vuln/SKILL.md 
 
 Vulnerabilidades
 
