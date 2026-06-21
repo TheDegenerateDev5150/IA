@@ -22,7 +22,7 @@ por CVSS Score, con referencias a exploits públicos (Metasploit, ExploitDB, Git
 
 ## Inputs Soportados
 
-resultado.xml con inforamción de escaneo previo, con distintas utilziadades 
+... con inforamción de escaneo previo, con distintas utilziadades 
 
 ---
 
