@@ -231,8 +231,8 @@ ollama run qwen3:latest
 - [https://docs.openclaw.ai/start/getting-started](https://docs.openclaw.ai/start/getting-started)
 - [https://www.kali.org/tools/gemini-cli/](https://www.kali.org/tools/gemini-cli/)
 - [https://github.com/bugbasesecurity/pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot)
-- [https://github.com/hypnguyen1209/offensive-claude](https://github.com/hypnguyen1209/offensive-claude)
-- [https://opencode.ai/](https://opencode.ai/)
+- [https://github.com/hackingyseguridad/IA/blob/main/CONSOLA.md#claude-code](https://github.com/hackingyseguridad/IA/blob/main/CONSOLA.md#claude-code)
+
 
 ---
 
