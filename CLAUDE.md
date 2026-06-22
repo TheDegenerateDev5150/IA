@@ -30,6 +30,7 @@ Antes de implementar:
 - Si existen múltiples interpretaciones, preséntelas — no elijas en silencio.
 - Si existe un enfoque más sencillo, dilo. Cuestiona cuando sea necesario.
 - Si algo no está claro, detente. Nombra lo que genera confusión. Pregunta.
+- No preguntes por preguntar, cuando la instrucción es clara, ejecutala completamente.
 
 ## 2. Simplicidad Primero
 **El mínimo código que resuelve el problema. Nada especulativo.**
