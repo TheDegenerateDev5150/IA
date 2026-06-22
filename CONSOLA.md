@@ -16,8 +16,7 @@
 4. [Ollama](#ollama)
 5. [Mistral IA](#mistral-ia)
 6. [Qwen 3.6](#qwen-36)
-7. [OpenClaw](#openclaw)
-8. [Referencias](#referencias)
+7. [Referencias](#referencias)
 
 ---
 
@@ -208,38 +207,9 @@ ollama run qwen3:latest
 
 ---
 
-## OpenClaw
-
-<img style="float:left" alt="hacking con IA OpenClaw" src="https://github.com/hackingyseguridad/ia/blob/main/openclaw.png">
-
-**[OpenClaw](https://openclaw.ai/)** — Permite instalarse en Kali Linux en modo CLI e interactuar con las herramientas de Kali Linux y la conexión disponible.
-
-Documentación: [https://docs.openclaw.ai/start/getting-started](https://docs.openclaw.ai/start/getting-started)
-
-### Instalación y configuración
-
-```bash
-# Ver token actual
-cat /usuario/.openclaw/openclaw.json
-
-# Aplicar token de autenticación
-openclaw config set gateway.auth.token "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-
-# Iniciar gateway
-openclaw gateway run
-
-# Iniciar interfaz TUI en local
-openclaw tui --local
 ```
 
-<img style="float:left" alt="hacking con IA OpenClaw TUI" src="https://github.com/hackingyseguridad/ia/blob/main/openclaw2.png">
 
-```bash
-# Configuración inicial guiada
-openclaw onboard
-
-# Usar modelo gratuito de OpenRouter
-# openrouter - gemini/gemma4:free
 ```
 
 ---
