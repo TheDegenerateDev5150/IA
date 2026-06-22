@@ -205,14 +205,9 @@ ollama run mistral
 ollama run qwen3:latest
 ```
 
----
 
-```
+<img style="float:left" alt="hacking con Kali + IA" src="https://github.com/hackingyseguridad/IA/blob/main/kali.png">
 
-
-```
-
----
 
 ## Comparativa de Herramientas
 
