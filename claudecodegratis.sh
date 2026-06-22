@@ -44,8 +44,8 @@ sleep 3
 # CLaude Code impulsado por Gemma4 online!!!
 ollama launch claude --model gemma4:31b-cloud
 
-# Opcion3
-# Claude Code impuslado por minimax-m3:cloud
+# Opcion3 
+# Claude Code impuslado por minimax-m3:cloud   - la mas rapida!!
 # ollama launch claude --model minimax-m3:cloud
 
 # Opcion4
