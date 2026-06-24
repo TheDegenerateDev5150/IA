@@ -182,12 +182,15 @@ Catálogo de modelos disponibles: [https://ollama.com/search](https://ollama.com
 # Instalar Ollama
 curl -fsSL https://ollama.com/install.sh | sh
 
-# Ejecutar un modelo
+# Ejecutar un modelo ( run ejecuta el fichero en la nube, pull en local )
 ollama run mistral
 ollama run deepseek-coder
 ollama run qwen3:latest
 ollama run comanderanch/Linux-Buster
 ```
+
+
+
 
 ---
 
