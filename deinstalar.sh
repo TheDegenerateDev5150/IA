@@ -2,6 +2,7 @@
 
 # Eliminar Ollama
 
+ollama logout 
 sudo systemctl stop ollama
 sudo systemctl disable ollama
 sudo rm /etc/systemd/system/ollama.service
