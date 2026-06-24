@@ -43,9 +43,13 @@ sudo apt install gemini-cli llm-tools-nmap mcp-kali-server
 
 ## Claude Code:
 
+Claude Code es un agente de programación autónomo, integrado que trabaja directamente desde terminal(Cli), editando archivos, ejecutando comandos y escribiendo código  Basta con darle instrucciones en lenguaje humano natural ("analiza las vulerabilidades de esta IP" o "ordena las vulnerabilidades CVE de este portal web") y se encarga de planificar, ejecutar y mostrar los comanodos y pruebas que realiza
+
 | # | Compañía | IA  | Modelos |
 |---|----------|-----------|---------------------------------------------|
 | 1 | Anthropic | Claude | Fable 5, Opus 4.8, Sonnet 4.6, Haiku 4.5, Mythos 5 |
+
+### Claude Code + Kali Linux ( Ofensive IA )
 
 <img style="float:left" alt="hacking con Kali + IA" src="https://github.com/hackingyseguridad/IA/blob/main/kali.png">
 
