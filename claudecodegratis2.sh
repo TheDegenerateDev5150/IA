@@ -53,6 +53,9 @@ ollama launch claude --model minimax-m3:cloud
 # Claude Code impulsado por Qwen en local PC
 # ollama launch claude --model qwen3-coder
 
+#Opcion5  
+# ollama launch claude --model  llama3.2:3b
+
 # Opcion6
 # ollama launch claude --model mistral
 
