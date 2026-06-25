@@ -2,7 +2,7 @@
 
 ### Estructura del Proyecto: IA hackingysguridad
 
----
+```
 
 .
 ├── 📁 .claude/                       # Configuración para Claude Code
@@ -75,7 +75,7 @@
 │
 └── 📄 chatboot.md                    # Guía de chatbot / asistente IA
 
+```
 
 
----
 
