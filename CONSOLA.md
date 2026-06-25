@@ -57,9 +57,9 @@ Claude Code es un agente de programación autónomo, integrado que trabaja direc
 
 **[Claude Code](https://code.claude.com/docs/es/overview/)** — IA de Anthropic disponible desde la terminal (CLI) con alta capacidad de análisis. Opera de forma **agéntica**: no es un simple emulador o sandbox, sino que interactúa con herramientas, ejecuta scripts, analiza código, vulnerabilidades lógicas complejas, corrupción de memoria y fallos estructurales en sistemas operativos, navegadores (como Firefox) y protocolos de red. Simula el comportamiento de un atacante y analiza las respuestas del sistema para validar si un fallo descubierto es realmente explotable.
 
-Claude Code, requiere un plan (Pro, Max, Team, Enterprise) o facturación por consola/API. en ninguna modalidad es gratis!
+Claude Code, requiere un plan (Pro, Max, Team, Enterprise) o facturación por consola/API; - ninguna modalidad es gratis!
 
-Claude Code, permite instalar **Skills** (Plugins) para añadir habilidades y especializar el uso del modelo IA, por ejemplo en análisis de vulnerabilidades o hacking ofensivo.
+Claude Code, permite instalar **Skills** (Plugins) para añadir habilidades y especificaiciones para un uso concreto en el modelo IA, por ejemplo SKILLs en análisis de vulnerabilidades o hacking ofensivo.
 
 > También disponible: **Claude Code Security** y **Claude Mythos** (modelo de frontera avanzado).
 
