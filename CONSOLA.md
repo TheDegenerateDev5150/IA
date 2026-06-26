@@ -90,12 +90,11 @@ Se puede crear un fichero **[CLAUDE.md](https://github.com/hackingyseguridad/IA/
 
 ### SKILL.md ( habilidades ) 
 
-- **SKILL.md** (habilidades), capacidades especializadas y herramientas que Claude Code puede ejecutar bajo demanda. Se añade inforamción adicional, conexto y se establece los requisitos y especificaciones previas Son como plugins o herramientas que extienden lo que Claude puede hacer más allá de solo conversar.
+- **SKILL.md** (habilidades), capacidades especializadas y herramientas que Claude Code puede ejecutar bajo demanda. Se añade información adicional, contexto y se establece los **requisitos y especificaciones previas** Son como plugins o herramientas que extienden lo que Claude puede hacer.
 
 el tamaño del contexto y del Prompt en un formulario Web de un portal de Inteligencia artificial (IA), **tiene un tamaño limitado**, por eso es mejor usar SKILL.md, que permite mayor escalabilidad, instrucción bajo demanda, ahorro de tokens en el prompt, mantenimiento, Recuperación inteligente (RAG) fragmentos necesarios, ..
 
-
-Las Skills son los requisitos específicos o información adicional que se dota a la IA. Hay dos tipos:
+**Las Skills son los requisitos específicos o información adicional** que se dota al modelo de la IA. - Hay dos tipos:
 
 | Tipo | Descripción |
 |---|---|
