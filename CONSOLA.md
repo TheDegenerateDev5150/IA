@@ -105,7 +105,7 @@ el tamaño del contexto y del Prompt en un formulario Web de un portal de Inteli
 
 **Pluging** son varios archivos dentro de una carpeta, .md.. html, .json , ... con las herramientas que le damos  a Claude Code para una tarea.
 
-**Estructura de Skills recomendada para Pentesting:**
+**Estructura de Skills de este proyecto recomendadas para Pentesting:**
 
 ```
 IA/
