@@ -49,5 +49,7 @@ echo " Ejecutando modelo: $MODEL ..."
 echo " (Escribe tu prompt. Presiona Ctrl+C o teclea quit para salir)"
 echo ""
 
+export PATH="$HOME/.local/bin:$PATH"
+
 claude --model "$MODEL"
 
