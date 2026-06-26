@@ -58,8 +58,8 @@
 │   ├── deinstalar.sh                 # Desinstalación
 │   │
 │   ├── claudecode.sh                 # Script para Claude Code
-│   ├── claudecodegratis.sh           # Claude Code gratuito
-│   ├── claudecodegratis2.sh          # Claude Code gratuito v2
+│   ├── claudecode1.sh                # Claude Code gratuito
+│   ├── claudecode2.sh                # Claude Code gratuito v2
 │   ├── claudesecuritybeta.sh         # Claude Security Beta
 │   │
 │   ├── deepseek.sh                   # Script para DeepSeek
