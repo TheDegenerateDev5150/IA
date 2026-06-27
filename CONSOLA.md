@@ -129,7 +129,10 @@ IA/
 En la ventana de contexto podemos poner un PROMPT con una limitación maxima de caracteres , para poder dar mas especificaciones / requisitos previos amplios e instruccion muy detalladas de mucha potencia usaremos CLAUDE.md y SKILLs, P .ej.: 
 
 ```
+PROMPT:
 carga, lee los ficheros: resultadofqdn.xml resultadored.xml resultadoweb.xml, en la carpeta: /home/antonio/IA/ejemplo/3/
+ó
+analiza las vulnerabilidades del portal web http://www.hackingyseguridad.com/  
 
 usa la SKILL global en: /home/antonio/IA/CLAUDE.md
 
