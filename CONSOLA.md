@@ -379,6 +379,11 @@ opencode run "Explica cómo funciona este código"
 opencode models
 ```
 
+[![http://hackingyseguridad.com/](https://github.com/hackingyseguridad/ia/raw/main/opencode0.png)](https://github.com/hackingyseguridad/ia/blob/main/opencode0.png)
+
+
+[![http://hackingyseguridad.com/](https://github.com/hackingyseguridad/ia/raw/main/opencode.png)](https://github.com/hackingyseguridad/ia/blob/main/opencode.png)
+
 ---
 
 ### Comparativa: IA local vs IA en la nube para hacking
