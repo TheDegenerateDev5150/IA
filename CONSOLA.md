@@ -347,12 +347,20 @@ ollama run mistral
 - Guía oficial de inicio: <https://opencode.ai/docs/>
 - Referencia de comandos CLI: <https://opencode.ai/docs/cli/>
 
-### Comandos de consola (OpenCode)
+### Comandos desde consola Linux, terminal (Cli) 
 ```bash
-# Ver credenciales/configuración guardadas
-cat ~/.local/share/opencode/auth.json
 
-# Configurar proveedor / API key (asistente interactivo)
+# Ejecutar opencode
+
+~/.opencode/bin/opencode
+
+o en la carpeta:
+
+cd ~/.opencode/bin/
+
+opencode
+
+# Configurar proveedor / API key (asistente interactivo) añadir credenciales en modelos 
 opencode auth login
 
 # Listar proveedores ya autenticados
