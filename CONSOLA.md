@@ -39,7 +39,7 @@ Esta guía recopila herramientas de **IA generativa/agéntica ejecutadas en loca
 | **Ollama** | Gestor/ejecutor de LLMs local | CPU / GPU / NPU | Depende del modelo cargado | Descarga, ejecuta y gestiona modelos cuantizados en local | [ollama.com](https://ollama.com) |
 | **Mistral IA** | LLM (chat/API) | Local vía Ollama o web | No nativo | Sin restricciones fuertes para detallar CVE, PoC y exploits | [chat.mistral.ai](https://chat.mistral.ai) |
 | **Qwen 3.6** | LLM (Alibaba) | Local (CLI) | No nativo | Requiere ~23 GB de espacio en disco | [qwen3_6.sh](https://github.com/hackingyseguridad/IA/blob/main/qwen3_6.sh) |
-| **OpenClaw** | Agente IA en terminal (TUI/gateway) | Kali Linux | Sí — interactúa con herramientas de Kali y la conexión disponible | Token de autenticación, gateway propio | [openclaw.ai](https://openclaw.ai/) |
+| **Opencode** | Agente IA en terminal (TUI/gateway) | Kali Linux | Sí — interactúa con herramientas de Kali y la conexión disponible | Token de autenticación, gateway propio | [opencode.ai](https://opencode.ai/) |
 
 ---
 
