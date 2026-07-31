@@ -384,14 +384,6 @@ opencode run "Explica cómo funciona este código"
 # Listar modelos disponibles según proveedores configurados
 opencode models
 ```
-**Modelos/proveedores adicionales usados con OpenCode:**
-```bash
-# OpenRouter - modelo gratuito
-opencode auth login --provider openrouter
-
-# Modelo local vía Ollama (definido en el archivo de configuración de OpenCode)
-ollama run comanderanch/Linux-Buster
-```
 
 ---
 
