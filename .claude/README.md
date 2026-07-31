@@ -46,12 +46,12 @@ Cómo usar una Skill en Claude Code (Ejemplos concretos)
 
 | Skill | Comando de uso y ruta en local donde esta la SKILL |
 |-------|----------------|
-| Principal | `usa la SKILL /home/antonio/IA/CLAUDE.md` |
-| Reconocimiento | `usa la SKILL /home/antonio/IA/claude/skills/recon/SKILL.md` |
-| Vulnerabilidades | `usa la SKILL /home/antonio/IA/claude/skills/Vuln/SKILL.md` |
-| Pruebas de concepto | `usa la SKILL /home/antonio/IA/claude/skills/POC/SKILL.md` |
-| Explotación | `usa la SKILL /home/antonio/IA/claude/skills/Exploit/SKILL.md` |
-| Informes | `usa la SKILL /home/antonio/IA/claude/skills/report/SKILL.md` |
+| Principal | `usa la SKILL https://github.com/hackingyseguridad/IA/blob/main/README.md` |
+| Reconocimiento | `usa la SKILL https://github.com/hackingyseguridad/IA/blob/main/.claude/skills/recon/SKILL.md` |
+| Vulnerabilidades | `usa la SKILL https://github.com/hackingyseguridad/IA/blob/main/.claude/skills/Vuln/SKILL.md` |
+| Pruebas de concepto | `usa la SKILL https://github.com/hackingyseguridad/IA/blob/main/.claude/skills/POC/SKILL.md` |
+| Explotación | `usa la SKILL https://github.com/hackingyseguridad/IA/blob/main/.claude/skills/Exploit/SKILL.md` |
+| Informes | `usa la SKILL https://github.com/hackingyseguridad/IA/blob/main/.claude/skills/report/SKILL.md` |
 
 Después de cargar la SKILL con el comando usa la SKILL ...,  pídele a Claude que realice la tarea correspondiente en lenguaje natural.
 
