@@ -341,7 +341,7 @@ ollama run mistral
 
 ---
 
-### OpenClaw
+### Opencode
 
 [OpenClaw](https://openclaw.ai/) permite instalarse en Kali Linux en modo consola (CLI) e interactuar con las herramientas de Kali Linux y con la conexión de red disponible.
 
@@ -349,30 +349,47 @@ ollama run mistral
 
 ### Comandos de consola (OpenClaw)
 
+### OpenClaw
+[OpenClaw](https://openclaw.ai/) permite instalarse en Kali Linux en modo consola (CLI) e interactuar con las herramientas de Kali Linux y con la conexión de red disponible.
+- Guía oficial de inicio: <https://docs.openclaw.ai/start/getting-started>
+
+---
+
+### OpenCode
+
+[OpenCode](https://opencode.ai/) es un agente de codificación IA de código abierto que se puede instalar en Kali Linux en modo consola (CLI/TUI) y usarlo para interactuar con las herramientas de Kali Linux y con la conexión de red disponible.
+- Guía oficial de inicio: <https://opencode.ai/docs/>
+- Referencia de comandos CLI: <https://opencode.ai/docs/cli/>
+
+### Comandos de consola (OpenCode)
 ```bash
-# Ver token de configuración
-cat /usuario/.openclaw/openclaw.json
+# Ver credenciales/configuración guardadas
+cat ~/.local/share/opencode/auth.json
 
-# Aplicar token
-openclaw config set gateway.auth.token "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+# Configurar proveedor / API key (asistente interactivo)
+opencode auth login
 
-# Lanzar el gateway
-openclaw gateway run
+# Listar proveedores ya autenticados
+opencode auth list
+
+# Lanzar el servidor headless (API HTTP)
+opencode serve
 
 # Interfaz TUI en modo local
-openclaw tui --local
+opencode
 
-# Asistente de configuración inicial
-openclaw onboard
+# Ejecutar en modo no interactivo (una sola consulta)
+opencode run "Explica cómo funciona este código"
+
+# Listar modelos disponibles según proveedores configurados
+opencode models
 ```
-
-**Modelos/proveedores adicionales usados con OpenClaw:**
-
+**Modelos/proveedores adicionales usados con OpenCode:**
 ```bash
 # OpenRouter - modelo gratuito
-openrouter - gemini.genma4:free
+opencode auth login --provider openrouter
 
-# Modelo Linux Buster vía Ollama
+# Modelo local vía Ollama (definido en el archivo de configuración de OpenCode)
 ollama run comanderanch/Linux-Buster
 ```
 
