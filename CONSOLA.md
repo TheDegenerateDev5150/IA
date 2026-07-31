@@ -22,7 +22,7 @@ Esta guía recopila herramientas de **IA generativa/agéntica ejecutadas en loca
 - [Ollama](#ollama)
 - [Mistral IA](#mistral-ia)
 - [Qwen 3.6](#qwen-36)
-- [OpenClaw](#openclaw)
+- [Opencode](#opencode)
 - [Comparativa: IA local vs IA en la nube para hacking](#comparativa-ia-local-vs-ia-en-la-nube-para-hacking)
 - [Referencias](#referencias)
 
