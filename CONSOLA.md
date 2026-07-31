@@ -341,20 +341,6 @@ ollama run mistral
 
 ---
 
-### Opencode
-
-[OpenClaw](https://openclaw.ai/) permite instalarse en Kali Linux en modo consola (CLI) e interactuar con las herramientas de Kali Linux y con la conexión de red disponible.
-
-- Guía oficial de inicio: <https://docs.openclaw.ai/start/getting-started>
-
-### Comandos de consola (OpenClaw)
-
-### OpenClaw
-[OpenClaw](https://openclaw.ai/) permite instalarse en Kali Linux en modo consola (CLI) e interactuar con las herramientas de Kali Linux y con la conexión de red disponible.
-- Guía oficial de inicio: <https://docs.openclaw.ai/start/getting-started>
-
----
-
 ### OpenCode
 
 [OpenCode](https://opencode.ai/) es un agente de codificación IA de código abierto que se puede instalar en Kali Linux en modo consola (CLI/TUI) y usarlo para interactuar con las herramientas de Kali Linux y con la conexión de red disponible.
