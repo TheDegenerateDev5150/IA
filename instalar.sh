@@ -48,6 +48,10 @@ apt -y autoclean
 apt update
 apt -f -y install
 
+# instala opencode
+
+curl -fsSL https://opencode.ai/install | bash
+
 # sudo apt update && sudo apt install claude-desktop
 
 curl -fsSL https://claude.ai/install.sh | bash
