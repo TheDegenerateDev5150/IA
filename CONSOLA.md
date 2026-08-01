@@ -350,6 +350,10 @@ ollama run mistral
 ### Comandos desde consola Linux, terminal (Cli) 
 ```bash
 
+# Instalar Opencode desde consola Linux Debian
+
+curl -fsSL https://opencode.ai/install | bash
+
 # Ejecutar opencode
 
 ~/.opencode/bin/opencode
