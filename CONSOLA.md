@@ -419,6 +419,7 @@ opencode models
 | Gemini-Cli en Kali Linux | <https://www.kali.org/tools/gemini-cli/> |
 | Pentest-Copilot | <https://github.com/bugbasesecurity/pentest-copilot> |
 | Offensive-Claude | <https://github.com/hypnguyen1209/offensive-claude> |
+| QWEN Code | <https://qwen.ai/qwencode> |
 | OpenCode | <https://opencode.ai/> |
 | Enlace adicional | <http://goo.gl/ID8XBX> |
 
