@@ -409,16 +409,17 @@ opencode models
 | Recurso | Enlace |
 |---|---|
 | Ollama | <https://ollama.com/> |
-| OpenAI Codex CLI (documentación oficial) | <https://developers.openai.com/codex/cli> |
-| Repositorio OpenAI Codex (Apache-2.0, Rust) | <https://github.com/openai/codex> |
 | Integración Ollama + Claude Code | <https://docs.ollama.com/integrations/claude-code#recommended-models> |
 | DeepSeek-Coder (repositorio) | <https://github.com/deepseek-ai/DeepSeek-Coder/> |
 | Anthropic knowledge-work-plugins | <https://github.com/anthropics/knowledge-work-plugins> |
 | Claude Security (beta pública) | <https://claude.com/product/claude-security#public-beta> |
+| Offensive-Claude | <https://github.com/hypnguyen1209/offensive-claude> |
+| OpenAI Codex CLI (documentación oficial) | <https://developers.openai.com/codex/cli> |
+| Repositorio OpenAI Codex (Apache-2.0, Rust) | <https://github.com/openai/codex> |
+| tGPT | <https://github.com/aandrew-me/tgpt> |
 | OpenClaw — guía de inicio | <https://docs.openclaw.ai/start/getting-started> |
 | Gemini-Cli en Kali Linux | <https://www.kali.org/tools/gemini-cli/> |
 | Pentest-Copilot | <https://github.com/bugbasesecurity/pentest-copilot> |
-| Offensive-Claude | <https://github.com/hypnguyen1209/offensive-claude> |
 | QWEN Code | <https://qwen.ai/qwencode> |
 | OpenCode | <https://opencode.ai/> |
 | KIMI K3 | <https://www.kimi.com/es-419/help/kimi-code/cli-getting-started/> |
