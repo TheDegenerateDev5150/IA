@@ -421,6 +421,7 @@ opencode models
 | Offensive-Claude | <https://github.com/hypnguyen1209/offensive-claude> |
 | QWEN Code | <https://qwen.ai/qwencode> |
 | OpenCode | <https://opencode.ai/> |
+| KIMI K3 | <https://www.kimi.com/es-419/help/kimi-code/cli-getting-started/> |
 | Enlace adicional | <http://goo.gl/ID8XBX> |
 
 #
