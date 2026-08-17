@@ -1,5 +1,5 @@
 #!/bin/sh
-# (R) hackingyseguridad.com 2026 
+# (R) Antonio Taboada - hackingyseguridad.com 2026 
 # Script para instalar ollama y poder ejecutar en local IA
 echo "Instalando herramientas para hacking con IA ... "  
 echo "(R) hackingyseguridad.com 2026 "
