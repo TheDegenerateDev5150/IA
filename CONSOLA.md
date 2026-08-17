@@ -70,11 +70,11 @@ Es la primera vez que OpenAI lanza una familia de modelos en **tres niveles** en
 
 > Según *benchmarks* de 2026, **GPT-5.6 Sol Ultra** lidera Terminal-Bench 2.1 con un 91,9 % de acierto, mientras que en SWE-Bench Verified el liderazgo lo mantienen modelos de la familia Mythos/Fable de Anthropic.
 
-### Instalación de Codex CLI
+### Instalación de Codex CLI (OpenIA) 
 
 ```bash
-# Instalar Codex CLI
-npm install -g @openai/codex
+# Instalar Codex CLI en Kali Linux
+curl -fsSL https://chatgpt.com/codex/install.sh | sh
 
 # Autenticarse (cuenta ChatGPT/OpenAI o API key)
 codex auth login
@@ -107,7 +107,11 @@ codex mcp list
 
 Al igual que con `CLAUDE.md`, Codex CLI admite un fichero **`AGENTS.md`** en la raíz del proyecto con las convenciones e instrucciones del proyecto; este fichero es además compatible con otras herramientas del ecosistema (Cursor, Amp, etc.), por lo que basta con escribirlo una vez.
 
+<img style="float:left" alt="http://hackingyseguridad.com/" src="https://github.com/hackingyseguridad/ia/blob/main/codex.png">
+
 Punto fuerte diferencial de Codex CLI frente a otros agentes: su **sandbox de ejecución**, considerado uno de los entornos más seguros para la ejecución autónoma de código, con distintos modos de aprobación (`/permissions`) antes de dejar que el agente modifique ficheros o ejecute comandos.
+
+
 
 ---
 
