@@ -416,7 +416,7 @@ opencode models
 | KIMI K3 | <https://www.kimi.com/es-419/help/kimi-code/cli-getting-started/> |
 | Offensive-Claude | <https://github.com/hypnguyen1209/offensive-claude> |
 | Ollama | <https://ollama.com/> |
-| Codex Cli GTP de OpenIA | <https://github.com/openai/codex/> |
+| Codex Cli GPT de OpenIA | <https://github.com/openai/codex/> |
 | OpenAI Codex CLI (documentación oficial) | <https://developers.openai.com/codex/cli> |
 | OpenClaw — guía de inicio | <https://docs.openclaw.ai/start/getting-started> |
 | OpenCode | <https://opencode.ai/> |
