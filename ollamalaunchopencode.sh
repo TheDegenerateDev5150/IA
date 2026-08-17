@@ -1,7 +1,5 @@
-
-
-
-# Antonio Taboada - hackingyseguridad.com 2026
+#!/bin/sh
+# (r)  Antonio Taboada - hackingyseguridad.com 2026
 
 # integracion de modelos de ollama para poder usarlose en opencode
 # los modelos que tengamos descargados e instalados en ollama , los podemos ver, selecioar y usar en opencode
