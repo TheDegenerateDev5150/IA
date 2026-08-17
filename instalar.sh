@@ -48,7 +48,8 @@ apt -y autoclean
 apt update
 apt -f -y install
 
-#instala Codex GTP ( openAI )
+# instala Codex GTP ( openAI )
+# /root/.local/bin/codex
 
 curl -fsSL https://chatgpt.com/codex/install.sh | sh
 
