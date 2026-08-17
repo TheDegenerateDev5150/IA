@@ -43,7 +43,7 @@ Esta guía recopila herramientas de **IA generativa/agéntica ejecutadas en loca
 
 ---
 
-### Gemini-Cli
+### Gemini-Cli (Google)
 
 [Gemini-Cli](https://www.kali.org/tools/gemini-cli/) es la IA de Google integrada como herramienta en la terminal (CLI) de **Kali Linux**, con capacidad de *Function Calling*: puede interactuar directamente sobre los dispositivos, ejecutar comandos y operar la conexión de la máquina.
 
@@ -70,7 +70,7 @@ Es la primera vez que OpenAI lanza una familia de modelos en **tres niveles** en
 
 > Según *benchmarks* de 2026, **GPT-5.6 Sol Ultra** lidera Terminal-Bench 2.1 con un 91,9 % de acierto, mientras que en SWE-Bench Verified el liderazgo lo mantienen modelos de la familia Mythos/Fable de Anthropic.
 
-### Instalación de Codex CLI (OpenIA) 
+### Instalación de Codex CLI
 
 ```bash
 # Instalar Codex CLI en Kali Linux
@@ -108,10 +108,6 @@ codex mcp list
 Al igual que con `CLAUDE.md`, Codex CLI admite un fichero **`AGENTS.md`** en la raíz del proyecto con las convenciones e instrucciones del proyecto; este fichero es además compatible con otras herramientas del ecosistema (Cursor, Amp, etc.), por lo que basta con escribirlo una vez.
 
 <img style="float:left" alt="http://hackingyseguridad.com/" src="https://github.com/hackingyseguridad/ia/blob/main/codex.png">
-
-Punto fuerte diferencial de Codex CLI frente a otros agentes: su **sandbox de ejecución**, considerado uno de los entornos más seguros para la ejecución autónoma de código, con distintos modos de aprobación (`/permissions`) antes de dejar que el agente modifique ficheros o ejecute comandos.
-
-
 
 ---
 
