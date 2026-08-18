@@ -42,8 +42,7 @@ Esta guía recopila herramientas de **IA generativa/agéntica ejecutadas en loca
 | **Opencode** | Agente IA en terminal (TUI/gateway) | Kali Linux | Sí — interactúa con herramientas de Kali y la conexión disponible | Token de autenticación, gateway propio | [opencode.ai](https://opencode.ai/) |
 
 
-Programas intermedios (como OpenCode, Codex, Claude Code, .. ) actúan como una capa integrada entre el usuario y el sistema operativo donde corren, gestionando comandos, interfaces y procesos. Esto los hace ideales para funcionar como agentes autónomos capaces de:
-
+programas/herramientas intermedios (como OpenCode, Codex, Claude Code, .. ) actúan como una capa integrada entre el usuario y el sistema operativo donde corren, gestionando comandos, interfaces y procesos. Esto los hace ideales para funcionar como agentes autónomos capaces de: 
 Buscar y detectar vulnerabilidades por sí solos.
 Probar pruebas de concepto (PoC) de forma automática.
 Descartar falsos positivos.
