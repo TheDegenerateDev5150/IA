@@ -117,6 +117,8 @@ codex mcp list
 
 Al igual que con `CLAUDE.md`, Codex CLI admite un fichero **`AGENTS.md`** en la raíz del proyecto con las convenciones e instrucciones del proyecto; este fichero es además compatible con otras herramientas del ecosistema (Cursor, Amp, etc.), por lo que basta con escribirlo una vez.
 
+<img style="float:left" alt="http://hackingyseguridad.com/" src="https://github.com/hackingyseguridad/ia/blob/main/codex0.png">
+
 <img style="float:left" alt="http://hackingyseguridad.com/" src="https://github.com/hackingyseguridad/ia/blob/main/codex.png">
 
 ---
