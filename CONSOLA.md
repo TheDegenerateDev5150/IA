@@ -86,6 +86,9 @@ curl -fsSL https://chatgpt.com/codex/install.sh | sh
 # Autenticarse (cuenta ChatGPT/OpenAI o API key)
 codex auth login
 
+# Token API:
+Token OpenIA ChatGPT:  https://platform.openai.com/api-keys?utm_source=chatgpt.com
+
 # Probar sobre un proyecto (modo con edición automática)
 cd tu-proyecto
 codex --auto-edit "Explica esta base de código y sugiere mejoras"
