@@ -50,6 +50,7 @@ apt -f -y install
 
 # instala Codex GTP ( openAI )
 # /root/.local/bin/codex
+# https://platform.openai.com/api-keys
 
 curl -fsSL https://chatgpt.com/codex/install.sh | sh
 
