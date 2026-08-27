@@ -84,14 +84,25 @@ Es la primera vez que OpenAI lanza una familia de modelos en **tres niveles** en
 curl -fsSL https://chatgpt.com/codex/install.sh | sh
 
 # Autenticarse (cuenta ChatGPT/OpenAI o API key)
-codex auth login
 
-# Token API:
-Token OpenIA ChatGPT:  https://platform.openai.com/api-keys?utm_source=chatgpt.com
+Registro API Key en Codex OpenAI 
 
-# Probar sobre un proyecto (modo con edición automática)
-cd tu-proyecto
-codex --auto-edit "Explica esta base de código y sugiere mejoras"
+1º.- Crear API en la web de OpenIA:
+
+https://platform.openai.com/api-keys?utm_source=chatgpt.com
+
+2º.- Una vez generada un nueva API Key la copiamos y en nodo consola tecleamos lanzamos codex
+
+3º .- ya en codex
+
+  Welcome to Codex, OpenAI's command-line coding agent
+
+  Sign in with ChatGPT to use Codex as part of your paid plan
+  or connect an API key for usage-based billing
+
+1. Sign in with ChatGPT
+     Usage included with Plus, Pro, Business, and Enterprise plans
+
 
 # Elegir modelo y nivel de razonamiento por tarea
 codex --model gpt-5.6-sol "Analiza este binario en busca de vulnerabilidades"
