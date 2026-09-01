@@ -413,6 +413,18 @@ opencode models
 
 ---
 
+### Integración plena en sistema operativo
+
+Estos programas intermedios y modelos sin ideales para pruebas, pues tienen una integración plena en el sistema operativo permitiendo usar los comandos disponisbles del sistema operativo, ejecutar scripts y usar las conexiones de red:
+
+| # | Programa intermedio | modelos de: |
+|---|---|---|
+| 1 | Gemini-Cli		| Google Gemini	|
+| 2 | Claude Code		| Antropic y Ollama   |
+| 3 | Codex			| CGP OpenAI, DeppeSeek |
+| 4 | OpenCode (OpenSource)	| Todos!  |
+| 5 | DeepSeek Code Harness | DeepSeek |
+
 ### Comparativa: IA local vs IA en la nube para hacking
 
 | Criterio | IA local (Ollama, DeepSeek, Qwen, Mistral-local) | IA en la nube / agente CLI conectado (Claude Code, Gemini-Cli, OpenClaw, Codex CLI) |
