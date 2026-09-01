@@ -413,9 +413,9 @@ opencode models
 
 ---
 
-### Integración plena en sistema operativo
+### Integración plena en sistema operativo, ideales para hacking p.ej.:
 
-Estos programas intermedios y modelos sin ideales para pruebas, pues tienen una integración plena en el sistema operativo permitiendo usar los comandos disponisbles del sistema operativo, ejecutar scripts y usar las conexiones de red:
+Estos programas intermedios para uso desde la terminal(Cli) y modelos son ideales para pruebas de ciberseguridad, pues tienen una integración plena en el sistema operativo conde corren permitiendo usar los comandos dispoonisbles del sistema operativo, ejecutar scripts y usar las conexiones de red:
 
 | # | Programa intermedio Cli | Usado con modelos IA de: |
 |---|---|---|
