@@ -421,8 +421,8 @@ Estos programas intermedios y modelos sin ideales para pruebas, pues tienen una 
 |---|---|---|
 | 1 | Gemini-Cli		| Google Gemini	|
 | 2 | Claude Code		| Anthropic y Ollama   |
-| 3 | Codex			| CGP OpenAI, DeppeSeek |
-| 4 | OpenCode (OpenSource)	| Todos !  |
+| 3 | Codex	 GPT-CLI		| GPT OpenAI, DeppeSeek |
+| 4 | OpenCode (OpenSource)	| Todos con API Key !  |
 | 5 | DeepSeek Code Harness | DeepSeek |
 | 6 | Qwen Code | Qwen Alibaba |
 
