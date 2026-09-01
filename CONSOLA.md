@@ -433,6 +433,8 @@ opencode models
 |---|---|
 | Anthropic knowledge-work-plugins | <https://github.com/anthropics/knowledge-work-plugins> |
 | Claude Security (beta pública) | <https://claude.com/product/claude-security#public-beta> |
+| DeepSeek API Key | <https://platform.deepseek.com/api_keys>  |
+| Codex DeepSeek | <https://api-docs.deepseek.com/quick_start/agent_integrations/codex/> |
 | DeepSeek Code Harness | <https://github.com/deepseek-ai/deepseek-harness> |
 | DeepSeek-Coder (repositorio) | <https://github.com/deepseek-ai/DeepSeek-Coder/> |
 | Gemini-Cli en Kali Linux | <https://www.kali.org/tools/gemini-cli/> |
