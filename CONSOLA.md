@@ -417,13 +417,14 @@ opencode models
 
 Estos programas intermedios y modelos sin ideales para pruebas, pues tienen una integración plena en el sistema operativo permitiendo usar los comandos disponisbles del sistema operativo, ejecutar scripts y usar las conexiones de red:
 
-| # | Programa intermedio | modelos de: |
+| # | Programa intermedio Cli | Usado con modelos IA de: |
 |---|---|---|
 | 1 | Gemini-Cli		| Google Gemini	|
-| 2 | Claude Code		| Antropic y Ollama   |
+| 2 | Claude Code		| Anthropic y Ollama   |
 | 3 | Codex			| CGP OpenAI, DeppeSeek |
-| 4 | OpenCode (OpenSource)	| Todos!  |
+| 4 | OpenCode (OpenSource)	| Todos !  |
 | 5 | DeepSeek Code Harness | DeepSeek |
+| 6 | Qwen Code | Qwen Alibaba |
 
 ### Comparativa: IA local vs IA en la nube para hacking
 
