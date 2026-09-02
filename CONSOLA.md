@@ -426,17 +426,9 @@ Estos programas herramientas intermedios para uso desde la terminal(Cli) y model
 | 5 | DeepSeek Code Harness | DeepSeek |
 | 6 | Qwen Code | Qwen Alibaba |
 
-### Comparativa: IA local vs IA en la nube para hacking
 
-| Criterio | IA local (Ollama, DeepSeek, Qwen, Mistral-local) | IA en la nube / agente CLI conectado (Claude Code, Gemini-Cli, OpenClaw, Codex CLI) |
-|---|---|---|
-| Privacidad de los datos | Alta — no sale de la máquina | Depende del proveedor y su política de datos |
-| Capacidad de ejecutar comandos (Function Calling) | Limitada, salvo integración manual | Nativa en varias de estas herramientas; Codex CLI destaca por su sandbox con modos de aprobación |
-| Restricciones de contenido sensible (CVE/PoC/exploit) | Generalmente menores en modelos base | Varían según el proveedor y las políticas de seguridad aplicadas |
-| Requisitos de hardware | Altos (disco, GPU/CPU/NPU) | Bajos en el cliente; el cómputo ocurre en la nube |
-| Coste | Gratuito tras la descarga del modelo | Suscripción, créditos o token de API — p. ej. GPT-5.6 Sol: 5$/30$ por millón de tokens (entrada/salida); Terra: 2,50$/15$; Luna: 1$/6$ |
-| Validación de explotabilidad real | Manual | Algunos agentes (p. ej. Claude Code Security) la automatizan |
-| Fichero de instrucciones del proyecto | No aplica | `CLAUDE.md` (Claude Code) / `AGENTS.md` (Codex CLI, también leído por Cursor y Amp) |
+estas herramientas integradas en SO y modelos IA tienen tanto poder analítico, conocimiento, y capacidad de pruebas, funcionan en modo agentico (autónomos) que consiguen  finalmente penetrar - La intervención humana ya no está en cada comando.  sino en el objetivo, ,el alcance y la valoración.  - si tenemos definido, desde el principio un contexto, todo bien encadenado p.ej. con sKills de lo que tiene hacer y no, hasta el final
+
 
 ---
 
