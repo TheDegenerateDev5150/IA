@@ -424,7 +424,7 @@ Estos programas herramientas intermedios para uso desde la terminal(Cli) y model
 | 3 | Codex	 GPT-CLI		| GPT OpenAI, DeppeSeek | Codex con Deepseek |
 | 4 | OpenCode (OpenSource)	| Todos con API Key !  | si, algun modelo |
 | 5 | DeepSeek Code Harness | DeepSeek | si, algun modelo  |
-| 6 | Qwen Code | Qwen Alibaba | si, Qweb  |
+| 6 | Qwen Code | Qwen Alibaba | si, Qwen  |
 
 
 estas herramientas integradas en SO y modelos IA tienen tanto poder analítico, conocimiento, y capacidad de pruebas, funcionan en modo agentico (autónomos) que consiguen  finalmente penetrar - La intervención humana ya no está en cada comando.  sino en el objetivo, ,el alcance y la valoración.  - si tenemos definido, desde el principio un contexto, todo bien encadenado p.ej. con sKills de lo que tiene hacer y no, hasta el final
