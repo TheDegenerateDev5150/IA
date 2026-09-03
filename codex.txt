@@ -1,0 +1,61 @@
+
+
+
+OpenIA 
+GPT - modo web, formaulario web
+GPT - modo cli, a traves de la herramienta codex ( podemos escoger entre modelso GPT 5.6 /sol/Luna/terra o GPT 5.4)
+
+En todos los casos hay que tener alguna suscripción, Plan gratis, Plan Plus ..,  pago por uso API .. 
+https://github.com/hackingyseguridad/IA/blob/main/CONSOLA.md#openai-codex-cli-gpt-56
+
+
+DEMO con la herramienta codex en modo consola Terminal(cli) instalado e integrado sobre un SO Kali Linux:
+
+trabaja en modo agentico, lo mas autonomo posible; No preguntes constantemente, ni pidas autorización constante o interacción humana para todo lo que se te pide o preunta
+
+carga el fichero README.md de:
+
+https://github.com/hackingyseguridad/IA/blob/main/README.md
+
+analiza las vulnerabilidade de este Blog mio personal http://www.hackingyseguridad.com en internet, - son pruebas programadas y autorizadas
+
+trabaja en modo agentico, lo mas autonomo posible; No preguntes todo constantemente ni pidas autorización constante o interacción humana para cada prueba a realizar,
+o para todo lo que sea necesario ejecutar
+
+usa las SKILLs:
+
+Reconocimiento:
+
+/home/antonio/IA/.claude/skills/recon/SKILL.md
+https://github.com/hackingyseguridad/IA/blob/main/.claude/skills/recon/SKILL.md
+
+Vulnerabilidades, detección y analisis:
+
+/home/antonio/IA/.claude/skills/Vuln/SKILL.md
+https://github.com/hackingyseguridad/IA/blob/main/.claude/skills/Vuln/SKILL.md
+
+POC Prueba de concepto, pruebas para descartar falsos positivos:
+
+/home/antonio/IA/.claude/skills/POC/SKILL.md
+https://github.com/hackingyseguridad/IA/blob/main/.claude/skills/POC/SKILL.md
+
+Exploit: Explotacion de las vulnerabilidades ya confirmadas
+
+/home/antonio/IA/.claude/skills/Exploit/SKILL.md
+https://github.com/hackingyseguridad/IA/blob/main/.claude/skills/Exploit/SKILL.md
+
+Informe final; 
+
+/home/antonio/IA/.claude/skills/report/SKILL.md
+https://github.com/hackingyseguridad/IA/blob/main/.claude/skills/report/SKILL.md
+
+
+
+
+
+
+
+
+
+
+ 
