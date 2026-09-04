@@ -422,7 +422,7 @@ Estos programas herramientas intermedios para uso desde la terminal(Cli) y model
 |---|---|---|---|---|---|---|---|
 | 1 | **Gemini-CLI** | Google Gemini | No | Cloud | Freemium |  Limitada | Recon, análisis código | 
 | 2 | **Claude Code** | Anthropic + Ollama | CLoud. Sí con Ollama | Local con Ollama | Freemium/$20 Pro |  Excelente | Explotación, POC, inyecciones | 
-| 3 | **Codex GPT-CLI** | GPT-6 + DeepSeek | Parcial | Hybrid | Pay-as-you-go | Muy buena | Análisis reversing, fuzzing | 
+| 3 | **Codex GPT-CLI** | GPT-6 + DeepSeek | Cloud | Hybrid | Pay-as-you-go | Muy buena | Análisis reversing, fuzzing | 
 | 4 | **OpenCode (OSS)** | Cualquiera con API | Sí | Local/Config | Gratis | Muy buena | Scraping, automatización |
 | 5 | **DeepSeek Code Harness** | DeepSeek | Sí | Local | Freemium | Buena | Análisis malware, payloads | 
 | 6 | **Qwen Code** | Alibaba Qwen | Sí | Local | Gratis (OSS) | Buena | Scripting ofensivo, OSINT | 
