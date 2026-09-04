@@ -428,14 +428,14 @@ Estos programas herramientas intermedios para uso desde la terminal(Cli) y model
 
 
 
-| # | Programa CLI | Modelos IA | Modo Local | Privacidad | Costo | Integración Kali/Pentest | Capacidades Ofensivas | Requisitos | 
-|---|---|---|---|---|---|---|---|---|
-| 1 | **Gemini-CLI** | Google Gemini | No | Cloud | Freemium |  Limitada | Recon, análisis código | GCP account | 
-| 2 | **Claude Code** | Anthropic + Ollama | Sí (Ollama) | Local con Ollama | Freemium/$20 Pro |  Excelente | Explotación, POC, inyecciones | 16GB+ RAM | 
-| 3 | **Codex GPT-CLI** | GPT-4 + DeepSeek | Parcial | Hybrid | Pay-as-you-go | Muy buena | Análisis reversing, fuzzing | API key | 
-| 4 | **OpenCode (OSS)** | Cualquiera con API | Sí | Local/Config | Gratis | Muy buena | Scraping, automatización | Bajo | 
-| 5 | **DeepSeek Code Harness** | DeepSeek | Sí | Local | Freemium | Buena | Análisis malware, payloads | 8GB RAM |
-| 6 | **Qwen Code** | Alibaba Qwen | Sí | Local | Gratis (OSS) | Buena | Scripting ofensivo, OSINT | 12GB RAM |
+| # | Programa CLI | Modelos IA | Modo Local | Privacidad | Costo | Integración Kali/Pentest | Capacidades Ofensivas |
+|---|---|---|---|---|---|---|---|
+| 1 | **Gemini-CLI** | Google Gemini | No | Cloud | Freemium |  Limitada | Recon, análisis código | 
+| 2 | **Claude Code** | Anthropic + Ollama | Sí (Ollama) | Local con Ollama | Freemium/$20 Pro |  Excelente | Explotación, POC, inyecciones | 
+| 3 | **Codex GPT-CLI** | GPT-4 + DeepSeek | Parcial | Hybrid | Pay-as-you-go | Muy buena | Análisis reversing, fuzzing | 
+| 4 | **OpenCode (OSS)** | Cualquiera con API | Sí | Local/Config | Gratis | Muy buena | Scraping, automatización |
+| 5 | **DeepSeek Code Harness** | DeepSeek | Sí | Local | Freemium | Buena | Análisis malware, payloads | 
+| 6 | **Qwen Code** | Alibaba Qwen | Sí | Local | Gratis (OSS) | Buena | Scripting ofensivo, OSINT | 
 
 
 
