@@ -417,26 +417,15 @@ opencode models
 
 Estos programas herramientas intermedios para uso desde la terminal(Cli) y modelos son ideales para pruebas de ciberseguridad, pues tienen una integración plena en el sistema operativo conde corren permitiendo usar los comandos disponisbles del sistema operativo, ejecutar scripts y usar las conexiones de red:
 
-| # | Programa intermedio Cli | Usado con modelos IA de: | modo local |
-|---|---|---|---|
-| 1 | Gemini-Cli		| Google Gemini	|  no |
-| 2 | Claude Code		| Anthropic y Ollama   | Claude + Ollama |
-| 3 | Codex	 GPT-CLI		| GPT OpenAI, DeppeSeek | Codex con Deepseek |
-| 4 | OpenCode (OpenSource)	| Todos con API Key !  | si, algun modelo |
-| 5 | DeepSeek Code Harness | DeepSeek | si, algun modelo  |
-| 6 | Qwen Code | Qwen Alibaba | si, Qwen  |
 
-
-
-| # | Programa CLI | Modelos IA | Modo Local | Privacidad | Costo | Integración Kali/Pentest | Capacidades Ofensivas |
+| # | Programa intermedio CLI | Modelos IA | Modo Local | Privacidad | Costo | Integración Kali/Pentest | Capacidades Ofensivas |
 |---|---|---|---|---|---|---|---|
 | 1 | **Gemini-CLI** | Google Gemini | No | Cloud | Freemium |  Limitada | Recon, análisis código | 
-| 2 | **Claude Code** | Anthropic + Ollama | Sí (Ollama) | Local con Ollama | Freemium/$20 Pro |  Excelente | Explotación, POC, inyecciones | 
+| 2 | **Claude Code** | Anthropic + Ollama | CLoud. Sí con Ollama | Local con Ollama | Freemium/$20 Pro |  Excelente | Explotación, POC, inyecciones | 
 | 3 | **Codex GPT-CLI** | GPT-4 + DeepSeek | Parcial | Hybrid | Pay-as-you-go | Muy buena | Análisis reversing, fuzzing | 
 | 4 | **OpenCode (OSS)** | Cualquiera con API | Sí | Local/Config | Gratis | Muy buena | Scraping, automatización |
 | 5 | **DeepSeek Code Harness** | DeepSeek | Sí | Local | Freemium | Buena | Análisis malware, payloads | 
 | 6 | **Qwen Code** | Alibaba Qwen | Sí | Local | Gratis (OSS) | Buena | Scripting ofensivo, OSINT | 
-
 
 
 estas herramientas integradas en SO y modelos IA tienen tanto poder analítico, conocimiento, y capacidad de pruebas, funcionan en modo agentico (autónomos) que consiguen  finalmente penetrar - La intervención humana ya no está en cada comando.  sino en el objetivo, ,el alcance y la valoración.  - si tenemos definido, desde el principio un contexto, todo bien encadenado p.ej. con sKills de lo que tiene hacer y no, hasta el final
