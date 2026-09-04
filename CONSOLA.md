@@ -427,6 +427,18 @@ Estos programas herramientas intermedios para uso desde la terminal(Cli) y model
 | 6 | Qwen Code | Qwen Alibaba | si, Qwen  |
 
 
+
+| # | Programa CLI | Modelos IA | Modo Local | Privacidad | Costo | Integración Kali/Pentest | Capacidades Ofensivas | Requisitos | Documentación |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | **Gemini-CLI** | Google Gemini | ❌ No | ⚠️ Cloud | Freemium | ❌ Limitada | Recon, análisis código | GCP account | Media |
+| 2 | **Claude Code** | Anthropic + Ollama | ✅ Sí (Ollama) | ✅ Local con Ollama | Freemium/$20 Pro | ✅ Excelente | Explotación, POC, inyecciones | 16GB+ RAM | Excelente |
+| 3 | **Codex GPT-CLI** | GPT-4 + DeepSeek | Parcial | ⚠️ Hybrid | Pay-as-you-go | ✅ Muy buena | Análisis reversing, fuzzing | API key | Buena |
+| 4 | **OpenCode (OSS)** | Cualquiera con API | ✅ Sí | ✅ Local/Config | Gratis | ✅ Muy buena | Scraping, automatización | Bajo | Variable |
+| 5 | **DeepSeek Code Harness** | DeepSeek | ✅ Sí | ✅ Local | Freemium | ✅ Buena | Análisis malware, payloads | 8GB RAM | Media |
+| 6 | **Qwen Code** | Alibaba Qwen | ✅ Sí | ✅ Local | Gratis (OSS) | ✅ Buena | Scripting ofensivo, OSINT | 12GB RAM | Media |
+
+
+
 estas herramientas integradas en SO y modelos IA tienen tanto poder analítico, conocimiento, y capacidad de pruebas, funcionan en modo agentico (autónomos) que consiguen  finalmente penetrar - La intervención humana ya no está en cada comando.  sino en el objetivo, ,el alcance y la valoración.  - si tenemos definido, desde el principio un contexto, todo bien encadenado p.ej. con sKills de lo que tiene hacer y no, hasta el final
 
 
