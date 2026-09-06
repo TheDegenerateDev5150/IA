@@ -2,7 +2,7 @@
 # Script para ejecutar en local DeepSeek IA
 # La mejor opcion para hacking y seguridad, gratis!! 
 # Para boorar este modelo: $ ollama rm deepseek-r1
-# Para usar en LOCAL con open code y ollama :  ollama launch opencode --model deepseek-r1:1.5
+# Para usar en LOCAL con open code y ollama :  ollama launch opencode --model deepseek-r1:1.5b
 # @antonio_taboada - hackingyseguridad.com 
 
 # Comprobar si ollama existe
@@ -22,5 +22,5 @@ if command -v systemctl >/dev/null 2>&1; then
 fi
 
 echo "Ejecutando DeepSeek-R1:1.5b..."
-ollama run deepseek-r1
+ollama run deepseek-r1:1.5b
 
