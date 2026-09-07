@@ -13,3 +13,7 @@ ollama launch opencode --model gemma4:31b-cloud
 #
 # ollama launch opencode --model minimax-m3:cloud
 # ollama launch opencode --model gpt-oss:20b-cloud
+# ollama launch opencode --model glm-5.3-flash:cloud
+# ollama launch opencode --model glm-5.3:cloud
+# ollama launch opencode --model deepseek-v4-flash:cloud
+# ollama launch opencode --model gemma4:31b-cloud
