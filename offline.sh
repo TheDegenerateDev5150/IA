@@ -1,5 +1,4 @@
 
-
 #!/bin/sh
 # IA en Local sin GPU offline !
 # @antonio_taboada - hackingyseguridad.com - 2026
@@ -8,7 +7,7 @@ echo " "
 echo "IA en Local sin GPU !"
 echo "ejecuta deepseek-r1:1.5b de ollama en LOCAL offline, con opencode "
 echo " "
-echo "Pentesting con IA local: sin mandar datos fuera”. Ollama + modelos abiertos + Kali/OpenCode, viendo qué se puede hacer realmente offline y qué se pierde frente a modelos potentes en la nube. Para un entorno corporativo, el debate de privacidad puede dar muchísimo juego."
+echo "Pentesting con IA local: sin mandar datos fuera. Ollama + modelos abiertos + Kali/OpenCode, viendo qué se puede hacer realmente offline y qué se pierde frente a modelos potentes en la nube. Para un entorno corporativo, el debate de privacidad puede dar muchísimo juego."
 echo
 
 # otros modelos similares en LOCAL y sin GPU !! solo CPU
