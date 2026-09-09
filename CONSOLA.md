@@ -331,7 +331,7 @@ Ecploits:
 
 ### DeepSeek Harmess 
 
-<img style="float:left" alt="hacking con IA Harmesse" src="https://github.com/hackingyseguridad/ia/blob/main/harmess.png">
+<img style="float:left" alt="hacking con IA Harmess" src="https://github.com/hackingyseguridad/IA/blob/main/harness.png">
 
 [DeepSeek Coder](https://github.com/hackingyseguridad/IA/blob/main/deepseek2.sh) es un modelo de lenguaje especializado en programación. Suele ser **menos restrictivo en su versión base** cuando se ejecuta en la terminal (CLI) localmente, lo que lo hace útil para la detección de *bugs* críticos.
 
