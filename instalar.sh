@@ -70,7 +70,7 @@ export PATH="$HOME/.local/bin:$PATH"
 
 # Instalar Harness de DeepSeek, requiere node.js
 # curl -fsSL https://raw.githubusercontent.com/peiyuwang54/deepseek-harness-cli/master/apps/cli/install/install.sh | sh
-
+# API Key para Harness Deepseek en:  https://platform.deepseek.com/sign_in
 
 echo
 wget https://raw.githubusercontent.com/hackingyseguridad/diccionarios/refs/heads/master/ficheros.txt -q -O diccionario.txt  --inet4-only
