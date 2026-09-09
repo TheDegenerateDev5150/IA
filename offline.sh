@@ -11,10 +11,18 @@ echo "Pentesting con IA local: sin mandar datos fuera. Ollama + modelos abiertos
 echo
 
 # otros modelos similares en LOCAL y sin GPU !! solo CPU
-#
+# ollama launch opencode --model deepseek-r1:1.5b
 # ollama launch opencode --model monotykamary/whiterabbitneo-v1.5a 
 # ollama launch opencode --model captainkyd/whiterabbitneo7b
 # ollama launch opencode --model lazarevtill/WhiteRabbitNeo-2.5-Qwen-2.5-Coder-7B
 #
-ollama launch opencode --model deepseek-r1:1.5b
 
+# ollama launch claude --model deepseek-r1:1.5b
+# ollama launch claude --model monotykamary/whiterabbitneo-v1.5a 
+# ollama launch claude --model captainkyd/whiterabbitneo7b
+# ollama launch claude --model lazarevtill/WhiteRabbitNeo-2.5-Qwen-2.5-Coder-7B
+#
+
+# ollama launch claude --model deepseek-r1:1.5b
+# ollama --model deepseek-r1:1.5b
+# ollama launch opencode --model deepseek-r1:1.5b
