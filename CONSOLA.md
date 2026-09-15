@@ -457,7 +457,7 @@ estas herramientas integradas en SO y modelos IA tienen tanto poder analítico, 
 | Pentest-Copilot | <https://github.com/bugbasesecurity/pentest-copilot> |
 | QWEN Code | <https://qwen.ai/qwencode> |
 | Repositorio OpenAI Codex (Apache-2.0, Rust) | <https://github.com/openai/codex> |
-| IA en local offline | <https://github.com/hackingyseguridad/ialocal> |
+| IA en local offline, sin internet | <https://github.com/hackingyseguridad/ialocal> |
 | Enlace adicional | <http://goo.gl/ID8XBX> |
 
 #
